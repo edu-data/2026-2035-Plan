@@ -1,10 +1,10 @@
-# 경인교육대학교 중장기 발전계획 (2026-2035)
+# 경인교육대학교 중장기 발전계획(안) (2026-2035)
 
 ## IPA 분석 대시보드
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://edu-data.github.io/2026-2035-Plan/ipa_dashboard.html)
 
-경인교육대학교 중장기 발전계획(2026-2035) 수립을 위한 **중요도-수행도 분석(IPA: Importance-Performance Analysis)** 대시보드입니다.
+경인교육대학교 중장기 발전계획(안)(2026-2035) 수립을 위한 **중요도-수행도 분석(IPA: Importance-Performance Analysis)** 대시보드입니다.
 
 ## 📊 주요 기능
 
