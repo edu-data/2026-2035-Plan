@@ -1,0 +1,3868 @@
+{
+  "summary": {
+    "areas": {
+      "핵심가치": {
+        "importance": 4.35,
+        "performance": 3.24,
+        "gap": 1.11
+      },
+      "위기요인": {
+        "importance": 4.23,
+        "performance": 3.13,
+        "gap": 1.1
+      },
+      "대응방향": {
+        "importance": 4.17,
+        "performance": 3.5,
+        "gap": 0.67
+      },
+      "5대발전전략": {
+        "importance": 4.13,
+        "performance": 3.38,
+        "gap": 0.75
+      },
+      "I.AI·스마트": {
+        "importance": 4.17,
+        "performance": 3.4,
+        "gap": 0.77
+      },
+      "II.교육연구": {
+        "importance": 4.11,
+        "performance": 3.44,
+        "gap": 0.67
+      },
+      "III.포용성·공공성": {
+        "importance": 4.05,
+        "performance": 3.42,
+        "gap": 0.63
+      },
+      "IV.학생역량·행복": {
+        "importance": 4.4,
+        "performance": 3.3,
+        "gap": 1.09
+      },
+      "V.글로벌허브": {
+        "importance": 4.14,
+        "performance": 3.35,
+        "gap": 0.79
+      }
+    }
+  },
+  "by_group": {
+    "교직원": {
+      "areas": {
+        "핵심가치": {
+          "importance": 4.48,
+          "performance": 2.99,
+          "gap": 1.49
+        },
+        "위기요인": {
+          "importance": 4.19,
+          "performance": 2.96,
+          "gap": 1.23
+        },
+        "대응방향": {
+          "importance": 4.15,
+          "performance": 3.24,
+          "gap": 0.91
+        },
+        "5대발전전략": {
+          "importance": 4.09,
+          "performance": 2.97,
+          "gap": 1.13
+        },
+        "I.AI·스마트": {
+          "importance": 4.18,
+          "performance": 2.9,
+          "gap": 1.27
+        },
+        "II.교육연구": {
+          "importance": 4.0,
+          "performance": 3.06,
+          "gap": 0.94
+        },
+        "III.포용성·공공성": {
+          "importance": 3.79,
+          "performance": 2.97,
+          "gap": 0.82
+        },
+        "IV.학생역량·행복": {
+          "importance": 4.29,
+          "performance": 3.43,
+          "gap": 0.86
+        },
+        "V.글로벌허브": {
+          "importance": 3.84,
+          "performance": 2.9,
+          "gap": 0.94
+        }
+      },
+      "detail_areas": {
+        "핵심가치": {
+          "items": {
+            "혁신": {
+              "importance": 4.44,
+              "performance": 2.73,
+              "gap": 1.71
+            },
+            "창의": {
+              "importance": 4.52,
+              "performance": 2.67,
+              "gap": 1.85
+            },
+            "수월": {
+              "importance": 4.08,
+              "performance": 2.98,
+              "gap": 1.1
+            },
+            "배려": {
+              "importance": 4.67,
+              "performance": 3.27,
+              "gap": 1.4
+            },
+            "소통": {
+              "importance": 4.67,
+              "performance": 3.29,
+              "gap": 1.38
+            }
+          },
+          "baselines": {
+            "importance": 4.48,
+            "performance": 2.99
+          },
+          "quadrants": {
+            "I. 집중개선": [
+              {
+                "item": "창의",
+                "importance": 4.52,
+                "performance": 2.67,
+                "gap": 1.85
+              }
+            ],
+            "II. 유지강화": [
+              {
+                "item": "배려",
+                "importance": 4.67,
+                "performance": 3.27,
+                "gap": 1.4
+              },
+              {
+                "item": "소통",
+                "importance": 4.67,
+                "performance": 3.29,
+                "gap": 1.38
+              }
+            ],
+            "III. 저우선": [
+              {
+                "item": "혁신",
+                "importance": 4.44,
+                "performance": 2.73,
+                "gap": 1.71
+              },
+              {
+                "item": "수월",
+                "importance": 4.08,
+                "performance": 2.98,
+                "gap": 1.1
+              }
+            ],
+            "IV. 과잉투자": []
+          }
+        },
+        "위기요인": {
+          "items": {
+            "시대적 변화 대응 역량 교원 확보 요구": {
+              "importance": 4.46,
+              "performance": 2.96,
+              "gap": 1.5
+            },
+            "저출산 초등교원 수요 감소": {
+              "importance": 4.46,
+              "performance": 2.79,
+              "gap": 1.67
+            },
+            "교육적 배려 학생 증가 양성과정 개편": {
+              "importance": 4.0,
+              "performance": 2.77,
+              "gap": 1.23
+            },
+            "교육대학원 수요 감소": {
+              "importance": 4.1,
+              "performance": 3.08,
+              "gap": 1.02
+            },
+            "교육청과의 협력 약화": {
+              "importance": 3.92,
+              "performance": 3.19,
+              "gap": 0.73
+            }
+          },
+          "baselines": {
+            "importance": 4.19,
+            "performance": 2.96
+          },
+          "quadrants": {
+            "I. 집중개선": [
+              {
+                "item": "저출산 초등교원 수요 감소",
+                "importance": 4.46,
+                "performance": 2.79,
+                "gap": 1.67
+              }
+            ],
+            "II. 유지강화": [
+              {
+                "item": "시대적 변화 대응 역량 교원 확보 요구",
+                "importance": 4.46,
+                "performance": 2.96,
+                "gap": 1.5
+              }
+            ],
+            "III. 저우선": [
+              {
+                "item": "교육적 배려 학생 증가 양성과정 개편",
+                "importance": 4.0,
+                "performance": 2.77,
+                "gap": 1.23
+              }
+            ],
+            "IV. 과잉투자": [
+              {
+                "item": "교육대학원 수요 감소",
+                "importance": 4.1,
+                "performance": 3.08,
+                "gap": 1.02
+              },
+              {
+                "item": "교육청과의 협력 약화",
+                "importance": 3.92,
+                "performance": 3.19,
+                "gap": 0.73
+              }
+            ]
+          }
+        },
+        "대응방향": {
+          "items": {
+            "특수목적 실현 및 고유발전 모델": {
+              "importance": 4.15,
+              "performance": 3.02,
+              "gap": 1.13
+            },
+            "교사교육기관 역할 강화": {
+              "importance": 4.33,
+              "performance": 3.46,
+              "gap": 0.87
+            },
+            "시대적 변화 대응 역량 교원 양성": {
+              "importance": 4.52,
+              "performance": 3.04,
+              "gap": 1.48
+            },
+            "교육 기회균등 및 공공성 제고": {
+              "importance": 3.79,
+              "performance": 3.31,
+              "gap": 0.48
+            },
+            "지역사회 연계 및 공헌": {
+              "importance": 3.96,
+              "performance": 3.37,
+              "gap": 0.6
+            }
+          },
+          "baselines": {
+            "importance": 4.15,
+            "performance": 3.24
+          },
+          "quadrants": {
+            "I. 집중개선": [
+              {
+                "item": "특수목적 실현 및 고유발전 모델",
+                "importance": 4.15,
+                "performance": 3.02,
+                "gap": 1.13
+              },
+              {
+                "item": "시대적 변화 대응 역량 교원 양성",
+                "importance": 4.52,
+                "performance": 3.04,
+                "gap": 1.48
+              }
+            ],
+            "II. 유지강화": [
+              {
+                "item": "교사교육기관 역할 강화",
+                "importance": 4.33,
+                "performance": 3.46,
+                "gap": 0.87
+              }
+            ],
+            "III. 저우선": [],
+            "IV. 과잉투자": [
+              {
+                "item": "교육 기회균등 및 공공성 제고",
+                "importance": 3.79,
+                "performance": 3.31,
+                "gap": 0.48
+              },
+              {
+                "item": "지역사회 연계 및 공헌",
+                "importance": 3.96,
+                "performance": 3.37,
+                "gap": 0.6
+              }
+            ]
+          }
+        },
+        "5대발전전략": {
+          "items": {
+            "AI·스마트 캠퍼스 혁신": {
+              "importance": 4.02,
+              "performance": 3.02,
+              "gap": 1.0
+            },
+            "교육연구 선도": {
+              "importance": 4.17,
+              "performance": 3.0,
+              "gap": 1.17
+            },
+            "포용성·공공성 고도화": {
+              "importance": 4.1,
+              "performance": 2.96,
+              "gap": 1.13
+            },
+            "학생 역량·행복 증진": {
+              "importance": 4.37,
+              "performance": 3.08,
+              "gap": 1.29
+            },
+            "글로벌 허브": {
+              "importance": 3.81,
+              "performance": 2.77,
+              "gap": 1.04
+            }
+          },
+          "baselines": {
+            "importance": 4.09,
+            "performance": 2.97
+          },
+          "quadrants": {
+            "I. 집중개선": [
+              {
+                "item": "포용성·공공성 고도화",
+                "importance": 4.1,
+                "performance": 2.96,
+                "gap": 1.13
+              }
+            ],
+            "II. 유지강화": [
+              {
+                "item": "교육연구 선도",
+                "importance": 4.17,
+                "performance": 3.0,
+                "gap": 1.17
+              },
+              {
+                "item": "학생 역량·행복 증진",
+                "importance": 4.37,
+                "performance": 3.08,
+                "gap": 1.29
+              }
+            ],
+            "III. 저우선": [
+              {
+                "item": "글로벌 허브",
+                "importance": 3.81,
+                "performance": 2.77,
+                "gap": 1.04
+              }
+            ],
+            "IV. 과잉투자": [
+              {
+                "item": "AI·스마트 캠퍼스 혁신",
+                "importance": 4.02,
+                "performance": 3.02,
+                "gap": 1.0
+              }
+            ]
+          }
+        }
+      },
+      "strategies_5": {
+        "items": {
+          "I.AI·스마트": {
+            "importance": 4.18,
+            "performance": 2.9,
+            "gap": 1.27
+          },
+          "II.교육연구": {
+            "importance": 4.0,
+            "performance": 3.06,
+            "gap": 0.94
+          },
+          "III.포용성·공공성": {
+            "importance": 3.79,
+            "performance": 2.97,
+            "gap": 0.82
+          },
+          "IV.학생역량·행복": {
+            "importance": 4.29,
+            "performance": 3.43,
+            "gap": 0.86
+          },
+          "V.글로벌허브": {
+            "importance": 3.84,
+            "performance": 2.9,
+            "gap": 0.94
+          }
+        },
+        "baselines": {
+          "importance": 4.02,
+          "performance": 3.05
+        },
+        "quadrants": {
+          "I. 집중개선": [
+            {
+              "strategy": "I.AI·스마트",
+              "importance": 4.18,
+              "performance": 2.9,
+              "gap": 1.27
+            }
+          ],
+          "II. 유지강화": [
+            {
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.29,
+              "performance": 3.43,
+              "gap": 0.86
+            }
+          ],
+          "III. 저우선": [
+            {
+              "strategy": "III.포용성·공공성",
+              "importance": 3.79,
+              "performance": 2.97,
+              "gap": 0.82
+            },
+            {
+              "strategy": "V.글로벌허브",
+              "importance": 3.84,
+              "performance": 2.9,
+              "gap": 0.94
+            }
+          ],
+          "IV. 과잉투자": [
+            {
+              "strategy": "II.교육연구",
+              "importance": 4.0,
+              "performance": 3.06,
+              "gap": 0.94
+            }
+          ]
+        }
+      },
+      "tasks_21": {
+        "items": {
+          "I-1. AI 기반 교육혁신": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.21,
+            "performance": 2.92,
+            "gap": 1.29
+          },
+          "I-2. 스마트 캠퍼스 구축": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.19,
+            "performance": 2.98,
+            "gap": 1.21
+          },
+          "I-3. AI 교원 전문성": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.12,
+            "performance": 2.79,
+            "gap": 1.33
+          },
+          "I-4. 에듀테크 활용": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.19,
+            "performance": 2.92,
+            "gap": 1.27
+          },
+          "II-1. 초등교원 연구 강화": {
+            "strategy": "II.교육연구",
+            "importance": 4.13,
+            "performance": 3.29,
+            "gap": 0.85
+          },
+          "II-2. 대학원 연구 지원": {
+            "strategy": "II.교육연구",
+            "importance": 4.08,
+            "performance": 3.12,
+            "gap": 0.96
+          },
+          "II-3. 지역 공동연구": {
+            "strategy": "II.교육연구",
+            "importance": 3.79,
+            "performance": 2.92,
+            "gap": 0.87
+          },
+          "II-4. 연구지원 체계": {
+            "strategy": "II.교육연구",
+            "importance": 3.98,
+            "performance": 2.9,
+            "gap": 1.08
+          },
+          "III-1. G-멘토링 플랫폼": {
+            "strategy": "III.포용성·공공성",
+            "importance": 3.73,
+            "performance": 3.17,
+            "gap": 0.56
+          },
+          "III-2. 미래형 시민교육": {
+            "strategy": "III.포용성·공공성",
+            "importance": 3.75,
+            "performance": 3.19,
+            "gap": 0.56
+          },
+          "III-3. 교육정책 싱크탱크": {
+            "strategy": "III.포용성·공공성",
+            "importance": 3.79,
+            "performance": 2.81,
+            "gap": 0.98
+          },
+          "III-4. ESG 교육 생태계": {
+            "strategy": "III.포용성·공공성",
+            "importance": 3.88,
+            "performance": 2.69,
+            "gap": 1.19
+          },
+          "IV-1. 학생 역량 개발": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.54,
+            "performance": 3.44,
+            "gap": 1.1
+          },
+          "IV-2. 학생 생활공간": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.19,
+            "performance": 3.48,
+            "gap": 0.71
+          },
+          "IV-3. 학생 적응·활동": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.27,
+            "performance": 3.4,
+            "gap": 0.87
+          },
+          "IV-4. 학생 만족도": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.17,
+            "performance": 3.4,
+            "gap": 0.77
+          },
+          "V-1. 해외파견 다변화": {
+            "strategy": "V.글로벌허브",
+            "importance": 3.88,
+            "performance": 3.37,
+            "gap": 0.52
+          },
+          "V-2. 교육실습 체계": {
+            "strategy": "V.글로벌허브",
+            "importance": 3.98,
+            "performance": 2.94,
+            "gap": 1.04
+          },
+          "V-3. 다문화·세계시민": {
+            "strategy": "V.글로벌허브",
+            "importance": 3.9,
+            "performance": 3.1,
+            "gap": 0.81
+          },
+          "V-4. 외국인 유치": {
+            "strategy": "V.글로벌허브",
+            "importance": 3.65,
+            "performance": 2.4,
+            "gap": 1.25
+          },
+          "V-5. 국제 공동연구": {
+            "strategy": "V.글로벌허브",
+            "importance": 3.79,
+            "performance": 2.71,
+            "gap": 1.08
+          }
+        },
+        "baselines": {
+          "importance": 4.01,
+          "performance": 3.04
+        },
+        "quadrants": {
+          "I. 집중개선": [
+            {
+              "task": "I-1. AI 기반 교육혁신",
+              "strategy": "I.AI·스마트",
+              "importance": 4.21,
+              "performance": 2.92,
+              "gap": 1.29
+            },
+            {
+              "task": "I-2. 스마트 캠퍼스 구축",
+              "strategy": "I.AI·스마트",
+              "importance": 4.19,
+              "performance": 2.98,
+              "gap": 1.21
+            },
+            {
+              "task": "I-3. AI 교원 전문성",
+              "strategy": "I.AI·스마트",
+              "importance": 4.12,
+              "performance": 2.79,
+              "gap": 1.33
+            },
+            {
+              "task": "I-4. 에듀테크 활용",
+              "strategy": "I.AI·스마트",
+              "importance": 4.19,
+              "performance": 2.92,
+              "gap": 1.27
+            }
+          ],
+          "II. 유지강화": [
+            {
+              "task": "II-1. 초등교원 연구 강화",
+              "strategy": "II.교육연구",
+              "importance": 4.13,
+              "performance": 3.29,
+              "gap": 0.85
+            },
+            {
+              "task": "II-2. 대학원 연구 지원",
+              "strategy": "II.교육연구",
+              "importance": 4.08,
+              "performance": 3.12,
+              "gap": 0.96
+            },
+            {
+              "task": "IV-1. 학생 역량 개발",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.54,
+              "performance": 3.44,
+              "gap": 1.1
+            },
+            {
+              "task": "IV-2. 학생 생활공간",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.19,
+              "performance": 3.48,
+              "gap": 0.71
+            },
+            {
+              "task": "IV-3. 학생 적응·활동",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.27,
+              "performance": 3.4,
+              "gap": 0.87
+            },
+            {
+              "task": "IV-4. 학생 만족도",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.17,
+              "performance": 3.4,
+              "gap": 0.77
+            }
+          ],
+          "III. 저우선": [
+            {
+              "task": "II-3. 지역 공동연구",
+              "strategy": "II.교육연구",
+              "importance": 3.79,
+              "performance": 2.92,
+              "gap": 0.87
+            },
+            {
+              "task": "II-4. 연구지원 체계",
+              "strategy": "II.교육연구",
+              "importance": 3.98,
+              "performance": 2.9,
+              "gap": 1.08
+            },
+            {
+              "task": "III-3. 교육정책 싱크탱크",
+              "strategy": "III.포용성·공공성",
+              "importance": 3.79,
+              "performance": 2.81,
+              "gap": 0.98
+            },
+            {
+              "task": "III-4. ESG 교육 생태계",
+              "strategy": "III.포용성·공공성",
+              "importance": 3.88,
+              "performance": 2.69,
+              "gap": 1.19
+            },
+            {
+              "task": "V-2. 교육실습 체계",
+              "strategy": "V.글로벌허브",
+              "importance": 3.98,
+              "performance": 2.94,
+              "gap": 1.04
+            },
+            {
+              "task": "V-4. 외국인 유치",
+              "strategy": "V.글로벌허브",
+              "importance": 3.65,
+              "performance": 2.4,
+              "gap": 1.25
+            },
+            {
+              "task": "V-5. 국제 공동연구",
+              "strategy": "V.글로벌허브",
+              "importance": 3.79,
+              "performance": 2.71,
+              "gap": 1.08
+            }
+          ],
+          "IV. 과잉투자": [
+            {
+              "task": "III-1. G-멘토링 플랫폼",
+              "strategy": "III.포용성·공공성",
+              "importance": 3.73,
+              "performance": 3.17,
+              "gap": 0.56
+            },
+            {
+              "task": "III-2. 미래형 시민교육",
+              "strategy": "III.포용성·공공성",
+              "importance": 3.75,
+              "performance": 3.19,
+              "gap": 0.56
+            },
+            {
+              "task": "V-1. 해외파견 다변화",
+              "strategy": "V.글로벌허브",
+              "importance": 3.88,
+              "performance": 3.37,
+              "gap": 0.52
+            },
+            {
+              "task": "V-3. 다문화·세계시민",
+              "strategy": "V.글로벌허브",
+              "importance": 3.9,
+              "performance": 3.1,
+              "gap": 0.81
+            }
+          ]
+        },
+        "gap_ranking": [
+          {
+            "task": "I-3. AI 교원 전문성",
+            "gap": 1.33,
+            "importance": 4.12,
+            "performance": 2.79,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "I-1. AI 기반 교육혁신",
+            "gap": 1.29,
+            "importance": 4.21,
+            "performance": 2.92,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "I-4. 에듀테크 활용",
+            "gap": 1.27,
+            "importance": 4.19,
+            "performance": 2.92,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "V-4. 외국인 유치",
+            "gap": 1.25,
+            "importance": 3.65,
+            "performance": 2.4,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "I-2. 스마트 캠퍼스 구축",
+            "gap": 1.21,
+            "importance": 4.19,
+            "performance": 2.98,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "III-4. ESG 교육 생태계",
+            "gap": 1.19,
+            "importance": 3.88,
+            "performance": 2.69,
+            "strategy": "III.포용성·공공성"
+          },
+          {
+            "task": "IV-1. 학생 역량 개발",
+            "gap": 1.1,
+            "importance": 4.54,
+            "performance": 3.44,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "II-4. 연구지원 체계",
+            "gap": 1.08,
+            "importance": 3.98,
+            "performance": 2.9,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "V-5. 국제 공동연구",
+            "gap": 1.08,
+            "importance": 3.79,
+            "performance": 2.71,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "V-2. 교육실습 체계",
+            "gap": 1.04,
+            "importance": 3.98,
+            "performance": 2.94,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "III-3. 교육정책 싱크탱크",
+            "gap": 0.98,
+            "importance": 3.79,
+            "performance": 2.81,
+            "strategy": "III.포용성·공공성"
+          },
+          {
+            "task": "II-2. 대학원 연구 지원",
+            "gap": 0.96,
+            "importance": 4.08,
+            "performance": 3.12,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "II-3. 지역 공동연구",
+            "gap": 0.87,
+            "importance": 3.79,
+            "performance": 2.92,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "IV-3. 학생 적응·활동",
+            "gap": 0.87,
+            "importance": 4.27,
+            "performance": 3.4,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "II-1. 초등교원 연구 강화",
+            "gap": 0.85,
+            "importance": 4.13,
+            "performance": 3.29,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "V-3. 다문화·세계시민",
+            "gap": 0.81,
+            "importance": 3.9,
+            "performance": 3.1,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "IV-4. 학생 만족도",
+            "gap": 0.77,
+            "importance": 4.17,
+            "performance": 3.4,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "IV-2. 학생 생활공간",
+            "gap": 0.71,
+            "importance": 4.19,
+            "performance": 3.48,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "III-1. G-멘토링 플랫폼",
+            "gap": 0.56,
+            "importance": 3.73,
+            "performance": 3.17,
+            "strategy": "III.포용성·공공성"
+          },
+          {
+            "task": "III-2. 미래형 시민교육",
+            "gap": 0.56,
+            "importance": 3.75,
+            "performance": 3.19,
+            "strategy": "III.포용성·공공성"
+          },
+          {
+            "task": "V-1. 해외파견 다변화",
+            "gap": 0.52,
+            "importance": 3.88,
+            "performance": 3.37,
+            "strategy": "V.글로벌허브"
+          }
+        ]
+      }
+    },
+    "졸업생": {
+      "areas": {
+        "핵심가치": {
+          "importance": 4.37,
+          "performance": 3.55,
+          "gap": 0.82
+        },
+        "위기요인": {
+          "importance": 4.32,
+          "performance": 3.46,
+          "gap": 0.86
+        },
+        "대응방향": {
+          "importance": 4.39,
+          "performance": 3.75,
+          "gap": 0.64
+        },
+        "5대발전전략": {
+          "importance": 4.34,
+          "performance": 3.52,
+          "gap": 0.82
+        },
+        "I.AI·스마트": {
+          "importance": 4.36,
+          "performance": 3.58,
+          "gap": 0.78
+        },
+        "II.교육연구": {
+          "importance": 4.44,
+          "performance": 3.65,
+          "gap": 0.78
+        },
+        "III.포용성·공공성": {
+          "importance": 4.1,
+          "performance": 3.49,
+          "gap": 0.61
+        },
+        "IV.학생역량·행복": {
+          "importance": 4.41,
+          "performance": 3.58,
+          "gap": 0.83
+        },
+        "V.글로벌허브": {
+          "importance": 4.22,
+          "performance": 3.4,
+          "gap": 0.82
+        }
+      },
+      "detail_areas": {
+        "핵심가치": {
+          "items": {
+            "혁신": {
+              "importance": 4.3,
+              "performance": 3.46,
+              "gap": 0.84
+            },
+            "창의": {
+              "importance": 4.47,
+              "performance": 3.24,
+              "gap": 1.23
+            },
+            "수월": {
+              "importance": 3.99,
+              "performance": 3.47,
+              "gap": 0.51
+            },
+            "배려": {
+              "importance": 4.41,
+              "performance": 3.7,
+              "gap": 0.71
+            },
+            "소통": {
+              "importance": 4.66,
+              "performance": 3.86,
+              "gap": 0.8
+            }
+          },
+          "baselines": {
+            "importance": 4.37,
+            "performance": 3.55
+          },
+          "quadrants": {
+            "I. 집중개선": [
+              {
+                "item": "창의",
+                "importance": 4.47,
+                "performance": 3.24,
+                "gap": 1.23
+              }
+            ],
+            "II. 유지강화": [
+              {
+                "item": "배려",
+                "importance": 4.41,
+                "performance": 3.7,
+                "gap": 0.71
+              },
+              {
+                "item": "소통",
+                "importance": 4.66,
+                "performance": 3.86,
+                "gap": 0.8
+              }
+            ],
+            "III. 저우선": [
+              {
+                "item": "혁신",
+                "importance": 4.3,
+                "performance": 3.46,
+                "gap": 0.84
+              },
+              {
+                "item": "수월",
+                "importance": 3.99,
+                "performance": 3.47,
+                "gap": 0.51
+              }
+            ],
+            "IV. 과잉투자": []
+          }
+        },
+        "위기요인": {
+          "items": {
+            "시대적 변화 대응 역량 교원 확보 요구": {
+              "importance": 4.59,
+              "performance": 3.64,
+              "gap": 0.94
+            },
+            "저출산 초등교원 수요 감소": {
+              "importance": 4.39,
+              "performance": 3.33,
+              "gap": 1.06
+            },
+            "교육적 배려 학생 증가 양성과정 개편": {
+              "importance": 4.2,
+              "performance": 3.4,
+              "gap": 0.8
+            },
+            "교육대학원 수요 감소": {
+              "importance": 4.21,
+              "performance": 3.46,
+              "gap": 0.76
+            },
+            "교육청과의 협력 약화": {
+              "importance": 4.21,
+              "performance": 3.49,
+              "gap": 0.73
+            }
+          },
+          "baselines": {
+            "importance": 4.32,
+            "performance": 3.46
+          },
+          "quadrants": {
+            "I. 집중개선": [
+              {
+                "item": "저출산 초등교원 수요 감소",
+                "importance": 4.39,
+                "performance": 3.33,
+                "gap": 1.06
+              }
+            ],
+            "II. 유지강화": [
+              {
+                "item": "시대적 변화 대응 역량 교원 확보 요구",
+                "importance": 4.59,
+                "performance": 3.64,
+                "gap": 0.94
+              }
+            ],
+            "III. 저우선": [
+              {
+                "item": "교육적 배려 학생 증가 양성과정 개편",
+                "importance": 4.2,
+                "performance": 3.4,
+                "gap": 0.8
+              },
+              {
+                "item": "교육대학원 수요 감소",
+                "importance": 4.21,
+                "performance": 3.46,
+                "gap": 0.76
+              }
+            ],
+            "IV. 과잉투자": [
+              {
+                "item": "교육청과의 협력 약화",
+                "importance": 4.21,
+                "performance": 3.49,
+                "gap": 0.73
+              }
+            ]
+          }
+        },
+        "대응방향": {
+          "items": {
+            "특수목적 실현 및 고유발전 모델": {
+              "importance": 4.27,
+              "performance": 3.74,
+              "gap": 0.53
+            },
+            "교사교육기관 역할 강화": {
+              "importance": 4.46,
+              "performance": 3.91,
+              "gap": 0.54
+            },
+            "시대적 변화 대응 역량 교원 양성": {
+              "importance": 4.6,
+              "performance": 3.8,
+              "gap": 0.8
+            },
+            "교육 기회균등 및 공공성 제고": {
+              "importance": 4.26,
+              "performance": 3.81,
+              "gap": 0.44
+            },
+            "지역사회 연계 및 공헌": {
+              "importance": 4.39,
+              "performance": 3.5,
+              "gap": 0.89
+            }
+          },
+          "baselines": {
+            "importance": 4.4,
+            "performance": 3.75
+          },
+          "quadrants": {
+            "I. 집중개선": [],
+            "II. 유지강화": [
+              {
+                "item": "교사교육기관 역할 강화",
+                "importance": 4.46,
+                "performance": 3.91,
+                "gap": 0.54
+              },
+              {
+                "item": "시대적 변화 대응 역량 교원 양성",
+                "importance": 4.6,
+                "performance": 3.8,
+                "gap": 0.8
+              }
+            ],
+            "III. 저우선": [
+              {
+                "item": "특수목적 실현 및 고유발전 모델",
+                "importance": 4.27,
+                "performance": 3.74,
+                "gap": 0.53
+              },
+              {
+                "item": "지역사회 연계 및 공헌",
+                "importance": 4.39,
+                "performance": 3.5,
+                "gap": 0.89
+              }
+            ],
+            "IV. 과잉투자": [
+              {
+                "item": "교육 기회균등 및 공공성 제고",
+                "importance": 4.26,
+                "performance": 3.81,
+                "gap": 0.44
+              }
+            ]
+          }
+        },
+        "5대발전전략": {
+          "items": {
+            "AI·스마트 캠퍼스 혁신": {
+              "importance": 4.27,
+              "performance": 3.54,
+              "gap": 0.73
+            },
+            "교육연구 선도": {
+              "importance": 4.46,
+              "performance": 3.53,
+              "gap": 0.93
+            },
+            "포용성·공공성 고도화": {
+              "importance": 4.27,
+              "performance": 3.53,
+              "gap": 0.74
+            },
+            "학생 역량·행복 증진": {
+              "importance": 4.4,
+              "performance": 3.59,
+              "gap": 0.81
+            },
+            "글로벌 허브": {
+              "importance": 4.29,
+              "performance": 3.41,
+              "gap": 0.87
+            }
+          },
+          "baselines": {
+            "importance": 4.34,
+            "performance": 3.52
+          },
+          "quadrants": {
+            "I. 집중개선": [],
+            "II. 유지강화": [
+              {
+                "item": "교육연구 선도",
+                "importance": 4.46,
+                "performance": 3.53,
+                "gap": 0.93
+              },
+              {
+                "item": "학생 역량·행복 증진",
+                "importance": 4.4,
+                "performance": 3.59,
+                "gap": 0.81
+              }
+            ],
+            "III. 저우선": [
+              {
+                "item": "글로벌 허브",
+                "importance": 4.29,
+                "performance": 3.41,
+                "gap": 0.87
+              }
+            ],
+            "IV. 과잉투자": [
+              {
+                "item": "AI·스마트 캠퍼스 혁신",
+                "importance": 4.27,
+                "performance": 3.54,
+                "gap": 0.73
+              },
+              {
+                "item": "포용성·공공성 고도화",
+                "importance": 4.27,
+                "performance": 3.53,
+                "gap": 0.74
+              }
+            ]
+          }
+        }
+      },
+      "strategies_5": {
+        "items": {
+          "I.AI·스마트": {
+            "importance": 4.36,
+            "performance": 3.58,
+            "gap": 0.78
+          },
+          "II.교육연구": {
+            "importance": 4.44,
+            "performance": 3.65,
+            "gap": 0.78
+          },
+          "III.포용성·공공성": {
+            "importance": 4.1,
+            "performance": 3.49,
+            "gap": 0.61
+          },
+          "IV.학생역량·행복": {
+            "importance": 4.41,
+            "performance": 3.58,
+            "gap": 0.83
+          },
+          "V.글로벌허브": {
+            "importance": 4.22,
+            "performance": 3.4,
+            "gap": 0.82
+          }
+        },
+        "baselines": {
+          "importance": 4.31,
+          "performance": 3.54
+        },
+        "quadrants": {
+          "I. 집중개선": [],
+          "II. 유지강화": [
+            {
+              "strategy": "I.AI·스마트",
+              "importance": 4.36,
+              "performance": 3.58,
+              "gap": 0.78
+            },
+            {
+              "strategy": "II.교육연구",
+              "importance": 4.44,
+              "performance": 3.65,
+              "gap": 0.78
+            },
+            {
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.41,
+              "performance": 3.58,
+              "gap": 0.83
+            }
+          ],
+          "III. 저우선": [
+            {
+              "strategy": "III.포용성·공공성",
+              "importance": 4.1,
+              "performance": 3.49,
+              "gap": 0.61
+            },
+            {
+              "strategy": "V.글로벌허브",
+              "importance": 4.22,
+              "performance": 3.4,
+              "gap": 0.82
+            }
+          ],
+          "IV. 과잉투자": []
+        }
+      },
+      "tasks_21": {
+        "items": {
+          "I-1. AI 기반 교육혁신": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.29,
+            "performance": 3.66,
+            "gap": 0.63
+          },
+          "I-2. 스마트 캠퍼스 구축": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.34,
+            "performance": 3.46,
+            "gap": 0.89
+          },
+          "I-3. AI 교원 전문성": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.4,
+            "performance": 3.56,
+            "gap": 0.84
+          },
+          "I-4. 에듀테크 활용": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.4,
+            "performance": 3.63,
+            "gap": 0.77
+          },
+          "II-1. 초등교원 연구 강화": {
+            "strategy": "II.교육연구",
+            "importance": 4.39,
+            "performance": 3.79,
+            "gap": 0.6
+          },
+          "II-2. 대학원 연구 지원": {
+            "strategy": "II.교육연구",
+            "importance": 4.54,
+            "performance": 3.67,
+            "gap": 0.87
+          },
+          "II-3. 지역 공동연구": {
+            "strategy": "II.교육연구",
+            "importance": 4.34,
+            "performance": 3.56,
+            "gap": 0.79
+          },
+          "II-4. 연구지원 체계": {
+            "strategy": "II.교육연구",
+            "importance": 4.47,
+            "performance": 3.6,
+            "gap": 0.87
+          },
+          "III-1. G-멘토링 플랫폼": {
+            "strategy": "III.포용성·공공성",
+            "importance": 4.09,
+            "performance": 3.5,
+            "gap": 0.59
+          },
+          "III-2. 미래형 시민교육": {
+            "strategy": "III.포용성·공공성",
+            "importance": 4.14,
+            "performance": 3.53,
+            "gap": 0.61
+          },
+          "III-3. 교육정책 싱크탱크": {
+            "strategy": "III.포용성·공공성",
+            "importance": 4.06,
+            "performance": 3.46,
+            "gap": 0.6
+          },
+          "III-4. ESG 교육 생태계": {
+            "strategy": "III.포용성·공공성",
+            "importance": 4.11,
+            "performance": 3.49,
+            "gap": 0.63
+          },
+          "IV-1. 학생 역량 개발": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.61,
+            "performance": 3.71,
+            "gap": 0.9
+          },
+          "IV-2. 학생 생활공간": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.33,
+            "performance": 3.41,
+            "gap": 0.91
+          },
+          "IV-3. 학생 적응·활동": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.37,
+            "performance": 3.64,
+            "gap": 0.73
+          },
+          "IV-4. 학생 만족도": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.33,
+            "performance": 3.54,
+            "gap": 0.79
+          },
+          "V-1. 해외파견 다변화": {
+            "strategy": "V.글로벌허브",
+            "importance": 4.26,
+            "performance": 3.5,
+            "gap": 0.76
+          },
+          "V-2. 교육실습 체계": {
+            "strategy": "V.글로벌허브",
+            "importance": 4.26,
+            "performance": 3.44,
+            "gap": 0.81
+          },
+          "V-3. 다문화·세계시민": {
+            "strategy": "V.글로벌허브",
+            "importance": 4.36,
+            "performance": 3.49,
+            "gap": 0.87
+          },
+          "V-4. 외국인 유치": {
+            "strategy": "V.글로벌허브",
+            "importance": 3.91,
+            "performance": 3.26,
+            "gap": 0.66
+          },
+          "V-5. 국제 공동연구": {
+            "strategy": "V.글로벌허브",
+            "importance": 4.31,
+            "performance": 3.33,
+            "gap": 0.99
+          }
+        },
+        "baselines": {
+          "importance": 4.3,
+          "performance": 3.53
+        },
+        "quadrants": {
+          "I. 집중개선": [
+            {
+              "task": "I-2. 스마트 캠퍼스 구축",
+              "strategy": "I.AI·스마트",
+              "importance": 4.34,
+              "performance": 3.46,
+              "gap": 0.89
+            },
+            {
+              "task": "IV-2. 학생 생활공간",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.33,
+              "performance": 3.41,
+              "gap": 0.91
+            },
+            {
+              "task": "V-3. 다문화·세계시민",
+              "strategy": "V.글로벌허브",
+              "importance": 4.36,
+              "performance": 3.49,
+              "gap": 0.87
+            },
+            {
+              "task": "V-5. 국제 공동연구",
+              "strategy": "V.글로벌허브",
+              "importance": 4.31,
+              "performance": 3.33,
+              "gap": 0.99
+            }
+          ],
+          "II. 유지강화": [
+            {
+              "task": "I-3. AI 교원 전문성",
+              "strategy": "I.AI·스마트",
+              "importance": 4.4,
+              "performance": 3.56,
+              "gap": 0.84
+            },
+            {
+              "task": "I-4. 에듀테크 활용",
+              "strategy": "I.AI·스마트",
+              "importance": 4.4,
+              "performance": 3.63,
+              "gap": 0.77
+            },
+            {
+              "task": "II-1. 초등교원 연구 강화",
+              "strategy": "II.교육연구",
+              "importance": 4.39,
+              "performance": 3.79,
+              "gap": 0.6
+            },
+            {
+              "task": "II-2. 대학원 연구 지원",
+              "strategy": "II.교육연구",
+              "importance": 4.54,
+              "performance": 3.67,
+              "gap": 0.87
+            },
+            {
+              "task": "II-3. 지역 공동연구",
+              "strategy": "II.교육연구",
+              "importance": 4.34,
+              "performance": 3.56,
+              "gap": 0.79
+            },
+            {
+              "task": "II-4. 연구지원 체계",
+              "strategy": "II.교육연구",
+              "importance": 4.47,
+              "performance": 3.6,
+              "gap": 0.87
+            },
+            {
+              "task": "IV-1. 학생 역량 개발",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.61,
+              "performance": 3.71,
+              "gap": 0.9
+            },
+            {
+              "task": "IV-3. 학생 적응·활동",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.37,
+              "performance": 3.64,
+              "gap": 0.73
+            },
+            {
+              "task": "IV-4. 학생 만족도",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.33,
+              "performance": 3.54,
+              "gap": 0.79
+            }
+          ],
+          "III. 저우선": [
+            {
+              "task": "III-1. G-멘토링 플랫폼",
+              "strategy": "III.포용성·공공성",
+              "importance": 4.09,
+              "performance": 3.5,
+              "gap": 0.59
+            },
+            {
+              "task": "III-2. 미래형 시민교육",
+              "strategy": "III.포용성·공공성",
+              "importance": 4.14,
+              "performance": 3.53,
+              "gap": 0.61
+            },
+            {
+              "task": "III-3. 교육정책 싱크탱크",
+              "strategy": "III.포용성·공공성",
+              "importance": 4.06,
+              "performance": 3.46,
+              "gap": 0.6
+            },
+            {
+              "task": "III-4. ESG 교육 생태계",
+              "strategy": "III.포용성·공공성",
+              "importance": 4.11,
+              "performance": 3.49,
+              "gap": 0.63
+            },
+            {
+              "task": "V-1. 해외파견 다변화",
+              "strategy": "V.글로벌허브",
+              "importance": 4.26,
+              "performance": 3.5,
+              "gap": 0.76
+            },
+            {
+              "task": "V-2. 교육실습 체계",
+              "strategy": "V.글로벌허브",
+              "importance": 4.26,
+              "performance": 3.44,
+              "gap": 0.81
+            },
+            {
+              "task": "V-4. 외국인 유치",
+              "strategy": "V.글로벌허브",
+              "importance": 3.91,
+              "performance": 3.26,
+              "gap": 0.66
+            }
+          ],
+          "IV. 과잉투자": [
+            {
+              "task": "I-1. AI 기반 교육혁신",
+              "strategy": "I.AI·스마트",
+              "importance": 4.29,
+              "performance": 3.66,
+              "gap": 0.63
+            }
+          ]
+        },
+        "gap_ranking": [
+          {
+            "task": "V-5. 국제 공동연구",
+            "gap": 0.99,
+            "importance": 4.31,
+            "performance": 3.33,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "IV-2. 학생 생활공간",
+            "gap": 0.91,
+            "importance": 4.33,
+            "performance": 3.41,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "IV-1. 학생 역량 개발",
+            "gap": 0.9,
+            "importance": 4.61,
+            "performance": 3.71,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "I-2. 스마트 캠퍼스 구축",
+            "gap": 0.89,
+            "importance": 4.34,
+            "performance": 3.46,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "II-2. 대학원 연구 지원",
+            "gap": 0.87,
+            "importance": 4.54,
+            "performance": 3.67,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "II-4. 연구지원 체계",
+            "gap": 0.87,
+            "importance": 4.47,
+            "performance": 3.6,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "V-3. 다문화·세계시민",
+            "gap": 0.87,
+            "importance": 4.36,
+            "performance": 3.49,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "I-3. AI 교원 전문성",
+            "gap": 0.84,
+            "importance": 4.4,
+            "performance": 3.56,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "V-2. 교육실습 체계",
+            "gap": 0.81,
+            "importance": 4.26,
+            "performance": 3.44,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "II-3. 지역 공동연구",
+            "gap": 0.79,
+            "importance": 4.34,
+            "performance": 3.56,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "IV-4. 학생 만족도",
+            "gap": 0.79,
+            "importance": 4.33,
+            "performance": 3.54,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "I-4. 에듀테크 활용",
+            "gap": 0.77,
+            "importance": 4.4,
+            "performance": 3.63,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "V-1. 해외파견 다변화",
+            "gap": 0.76,
+            "importance": 4.26,
+            "performance": 3.5,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "IV-3. 학생 적응·활동",
+            "gap": 0.73,
+            "importance": 4.37,
+            "performance": 3.64,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "V-4. 외국인 유치",
+            "gap": 0.66,
+            "importance": 3.91,
+            "performance": 3.26,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "I-1. AI 기반 교육혁신",
+            "gap": 0.63,
+            "importance": 4.29,
+            "performance": 3.66,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "III-4. ESG 교육 생태계",
+            "gap": 0.63,
+            "importance": 4.11,
+            "performance": 3.49,
+            "strategy": "III.포용성·공공성"
+          },
+          {
+            "task": "III-2. 미래형 시민교육",
+            "gap": 0.61,
+            "importance": 4.14,
+            "performance": 3.53,
+            "strategy": "III.포용성·공공성"
+          },
+          {
+            "task": "II-1. 초등교원 연구 강화",
+            "gap": 0.6,
+            "importance": 4.39,
+            "performance": 3.79,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "III-3. 교육정책 싱크탱크",
+            "gap": 0.6,
+            "importance": 4.06,
+            "performance": 3.46,
+            "strategy": "III.포용성·공공성"
+          },
+          {
+            "task": "III-1. G-멘토링 플랫폼",
+            "gap": 0.59,
+            "importance": 4.09,
+            "performance": 3.5,
+            "strategy": "III.포용성·공공성"
+          }
+        ]
+      }
+    },
+    "학부생": {
+      "areas": {
+        "핵심가치": {
+          "importance": 4.33,
+          "performance": 3.22,
+          "gap": 1.12
+        },
+        "위기요인": {
+          "importance": 4.22,
+          "performance": 3.09,
+          "gap": 1.13
+        },
+        "대응방향": {
+          "importance": 4.13,
+          "performance": 3.49,
+          "gap": 0.64
+        },
+        "5대발전전략": {
+          "importance": 4.1,
+          "performance": 3.41,
+          "gap": 0.69
+        },
+        "I.AI·스마트": {
+          "importance": 4.13,
+          "performance": 3.43,
+          "gap": 0.69
+        },
+        "II.교육연구": {
+          "importance": 4.07,
+          "performance": 3.45,
+          "gap": 0.61
+        },
+        "III.포용성·공공성": {
+          "importance": 4.07,
+          "performance": 3.47,
+          "gap": 0.61
+        },
+        "IV.학생역량·행복": {
+          "importance": 4.41,
+          "performance": 3.23,
+          "gap": 1.18
+        },
+        "V.글로벌허브": {
+          "importance": 4.17,
+          "performance": 3.4,
+          "gap": 0.77
+        }
+      },
+      "detail_areas": {
+        "핵심가치": {
+          "items": {
+            "혁신": {
+              "importance": 4.14,
+              "performance": 3.11,
+              "gap": 1.03
+            },
+            "창의": {
+              "importance": 4.24,
+              "performance": 3.07,
+              "gap": 1.17
+            },
+            "수월": {
+              "importance": 4.18,
+              "performance": 3.34,
+              "gap": 0.84
+            },
+            "배려": {
+              "importance": 4.48,
+              "performance": 3.37,
+              "gap": 1.11
+            },
+            "소통": {
+              "importance": 4.64,
+              "performance": 3.2,
+              "gap": 1.44
+            }
+          },
+          "baselines": {
+            "importance": 4.34,
+            "performance": 3.22
+          },
+          "quadrants": {
+            "I. 집중개선": [
+              {
+                "item": "소통",
+                "importance": 4.64,
+                "performance": 3.2,
+                "gap": 1.44
+              }
+            ],
+            "II. 유지강화": [
+              {
+                "item": "배려",
+                "importance": 4.48,
+                "performance": 3.37,
+                "gap": 1.11
+              }
+            ],
+            "III. 저우선": [
+              {
+                "item": "혁신",
+                "importance": 4.14,
+                "performance": 3.11,
+                "gap": 1.03
+              },
+              {
+                "item": "창의",
+                "importance": 4.24,
+                "performance": 3.07,
+                "gap": 1.17
+              }
+            ],
+            "IV. 과잉투자": [
+              {
+                "item": "수월",
+                "importance": 4.18,
+                "performance": 3.34,
+                "gap": 0.84
+              }
+            ]
+          }
+        },
+        "위기요인": {
+          "items": {
+            "시대적 변화 대응 역량 교원 확보 요구": {
+              "importance": 4.31,
+              "performance": 3.19,
+              "gap": 1.12
+            },
+            "저출산 초등교원 수요 감소": {
+              "importance": 4.48,
+              "performance": 2.84,
+              "gap": 1.65
+            },
+            "교육적 배려 학생 증가 양성과정 개편": {
+              "importance": 4.3,
+              "performance": 3.16,
+              "gap": 1.14
+            },
+            "교육대학원 수요 감소": {
+              "importance": 3.84,
+              "performance": 3.09,
+              "gap": 0.74
+            },
+            "교육청과의 협력 약화": {
+              "importance": 4.19,
+              "performance": 3.18,
+              "gap": 1.01
+            }
+          },
+          "baselines": {
+            "importance": 4.22,
+            "performance": 3.09
+          },
+          "quadrants": {
+            "I. 집중개선": [
+              {
+                "item": "저출산 초등교원 수요 감소",
+                "importance": 4.48,
+                "performance": 2.84,
+                "gap": 1.65
+              }
+            ],
+            "II. 유지강화": [
+              {
+                "item": "시대적 변화 대응 역량 교원 확보 요구",
+                "importance": 4.31,
+                "performance": 3.19,
+                "gap": 1.12
+              },
+              {
+                "item": "교육적 배려 학생 증가 양성과정 개편",
+                "importance": 4.3,
+                "performance": 3.16,
+                "gap": 1.14
+              }
+            ],
+            "III. 저우선": [
+              {
+                "item": "교육대학원 수요 감소",
+                "importance": 3.84,
+                "performance": 3.09,
+                "gap": 0.74
+              }
+            ],
+            "IV. 과잉투자": [
+              {
+                "item": "교육청과의 협력 약화",
+                "importance": 4.19,
+                "performance": 3.18,
+                "gap": 1.01
+              }
+            ]
+          }
+        },
+        "대응방향": {
+          "items": {
+            "특수목적 실현 및 고유발전 모델": {
+              "importance": 4.03,
+              "performance": 3.44,
+              "gap": 0.6
+            },
+            "교사교육기관 역할 강화": {
+              "importance": 4.29,
+              "performance": 3.54,
+              "gap": 0.75
+            },
+            "시대적 변화 대응 역량 교원 양성": {
+              "importance": 4.33,
+              "performance": 3.44,
+              "gap": 0.89
+            },
+            "교육 기회균등 및 공공성 제고": {
+              "importance": 4.08,
+              "performance": 3.48,
+              "gap": 0.6
+            },
+            "지역사회 연계 및 공헌": {
+              "importance": 3.91,
+              "performance": 3.53,
+              "gap": 0.38
+            }
+          },
+          "baselines": {
+            "importance": 4.13,
+            "performance": 3.49
+          },
+          "quadrants": {
+            "I. 집중개선": [
+              {
+                "item": "시대적 변화 대응 역량 교원 양성",
+                "importance": 4.33,
+                "performance": 3.44,
+                "gap": 0.89
+              }
+            ],
+            "II. 유지강화": [
+              {
+                "item": "교사교육기관 역할 강화",
+                "importance": 4.29,
+                "performance": 3.54,
+                "gap": 0.75
+              }
+            ],
+            "III. 저우선": [
+              {
+                "item": "특수목적 실현 및 고유발전 모델",
+                "importance": 4.03,
+                "performance": 3.44,
+                "gap": 0.6
+              },
+              {
+                "item": "교육 기회균등 및 공공성 제고",
+                "importance": 4.08,
+                "performance": 3.48,
+                "gap": 0.6
+              }
+            ],
+            "IV. 과잉투자": [
+              {
+                "item": "지역사회 연계 및 공헌",
+                "importance": 3.91,
+                "performance": 3.53,
+                "gap": 0.38
+              }
+            ]
+          }
+        },
+        "5대발전전략": {
+          "items": {
+            "AI·스마트 캠퍼스 혁신": {
+              "importance": 3.98,
+              "performance": 3.49,
+              "gap": 0.49
+            },
+            "교육연구 선도": {
+              "importance": 4.08,
+              "performance": 3.43,
+              "gap": 0.65
+            },
+            "포용성·공공성 고도화": {
+              "importance": 4.1,
+              "performance": 3.38,
+              "gap": 0.72
+            },
+            "학생 역량·행복 증진": {
+              "importance": 4.34,
+              "performance": 3.34,
+              "gap": 1.01
+            },
+            "글로벌 허브": {
+              "importance": 3.98,
+              "performance": 3.41,
+              "gap": 0.57
+            }
+          },
+          "baselines": {
+            "importance": 4.1,
+            "performance": 3.41
+          },
+          "quadrants": {
+            "I. 집중개선": [
+              {
+                "item": "포용성·공공성 고도화",
+                "importance": 4.1,
+                "performance": 3.38,
+                "gap": 0.72
+              },
+              {
+                "item": "학생 역량·행복 증진",
+                "importance": 4.34,
+                "performance": 3.34,
+                "gap": 1.01
+              }
+            ],
+            "II. 유지강화": [],
+            "III. 저우선": [],
+            "IV. 과잉투자": [
+              {
+                "item": "AI·스마트 캠퍼스 혁신",
+                "importance": 3.98,
+                "performance": 3.49,
+                "gap": 0.49
+              },
+              {
+                "item": "교육연구 선도",
+                "importance": 4.08,
+                "performance": 3.43,
+                "gap": 0.65
+              },
+              {
+                "item": "글로벌 허브",
+                "importance": 3.98,
+                "performance": 3.41,
+                "gap": 0.57
+              }
+            ]
+          }
+        }
+      },
+      "strategies_5": {
+        "items": {
+          "I.AI·스마트": {
+            "importance": 4.13,
+            "performance": 3.43,
+            "gap": 0.69
+          },
+          "II.교육연구": {
+            "importance": 4.07,
+            "performance": 3.45,
+            "gap": 0.61
+          },
+          "III.포용성·공공성": {
+            "importance": 4.07,
+            "performance": 3.47,
+            "gap": 0.61
+          },
+          "IV.학생역량·행복": {
+            "importance": 4.41,
+            "performance": 3.23,
+            "gap": 1.18
+          },
+          "V.글로벌허브": {
+            "importance": 4.17,
+            "performance": 3.4,
+            "gap": 0.77
+          }
+        },
+        "baselines": {
+          "importance": 4.17,
+          "performance": 3.4
+        },
+        "quadrants": {
+          "I. 집중개선": [
+            {
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.41,
+              "performance": 3.23,
+              "gap": 1.18
+            }
+          ],
+          "II. 유지강화": [
+            {
+              "strategy": "V.글로벌허브",
+              "importance": 4.17,
+              "performance": 3.4,
+              "gap": 0.77
+            }
+          ],
+          "III. 저우선": [],
+          "IV. 과잉투자": [
+            {
+              "strategy": "I.AI·스마트",
+              "importance": 4.13,
+              "performance": 3.43,
+              "gap": 0.69
+            },
+            {
+              "strategy": "II.교육연구",
+              "importance": 4.07,
+              "performance": 3.45,
+              "gap": 0.61
+            },
+            {
+              "strategy": "III.포용성·공공성",
+              "importance": 4.07,
+              "performance": 3.47,
+              "gap": 0.61
+            }
+          ]
+        }
+      },
+      "tasks_21": {
+        "items": {
+          "I-1. AI 기반 교육혁신": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.13,
+            "performance": 3.54,
+            "gap": 0.59
+          },
+          "I-2. 스마트 캠퍼스 구축": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.06,
+            "performance": 3.29,
+            "gap": 0.77
+          },
+          "I-3. AI 교원 전문성": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.14,
+            "performance": 3.4,
+            "gap": 0.74
+          },
+          "I-4. 에듀테크 활용": {
+            "strategy": "I.AI·스마트",
+            "importance": 4.19,
+            "performance": 3.51,
+            "gap": 0.68
+          },
+          "II-1. 초등교원 연구 강화": {
+            "strategy": "II.교육연구",
+            "importance": 4.24,
+            "performance": 3.53,
+            "gap": 0.71
+          },
+          "II-2. 대학원 연구 지원": {
+            "strategy": "II.교육연구",
+            "importance": 4.01,
+            "performance": 3.44,
+            "gap": 0.57
+          },
+          "II-3. 지역 공동연구": {
+            "strategy": "II.교육연구",
+            "importance": 3.95,
+            "performance": 3.39,
+            "gap": 0.56
+          },
+          "II-4. 연구지원 체계": {
+            "strategy": "II.교육연구",
+            "importance": 4.05,
+            "performance": 3.45,
+            "gap": 0.61
+          },
+          "III-1. G-멘토링 플랫폼": {
+            "strategy": "III.포용성·공공성",
+            "importance": 4.1,
+            "performance": 3.61,
+            "gap": 0.49
+          },
+          "III-2. 미래형 시민교육": {
+            "strategy": "III.포용성·공공성",
+            "importance": 4.06,
+            "performance": 3.49,
+            "gap": 0.56
+          },
+          "III-3. 교육정책 싱크탱크": {
+            "strategy": "III.포용성·공공성",
+            "importance": 4.03,
+            "performance": 3.38,
+            "gap": 0.64
+          },
+          "III-4. ESG 교육 생태계": {
+            "strategy": "III.포용성·공공성",
+            "importance": 4.11,
+            "performance": 3.38,
+            "gap": 0.74
+          },
+          "IV-1. 학생 역량 개발": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.42,
+            "performance": 3.39,
+            "gap": 1.03
+          },
+          "IV-2. 학생 생활공간": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.39,
+            "performance": 3.13,
+            "gap": 1.26
+          },
+          "IV-3. 학생 적응·활동": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.43,
+            "performance": 3.3,
+            "gap": 1.13
+          },
+          "IV-4. 학생 만족도": {
+            "strategy": "IV.학생역량·행복",
+            "importance": 4.4,
+            "performance": 3.1,
+            "gap": 1.29
+          },
+          "V-1. 해외파견 다변화": {
+            "strategy": "V.글로벌허브",
+            "importance": 4.13,
+            "performance": 3.6,
+            "gap": 0.53
+          },
+          "V-2. 교육실습 체계": {
+            "strategy": "V.글로벌허브",
+            "importance": 4.36,
+            "performance": 3.18,
+            "gap": 1.18
+          },
+          "V-3. 다문화·세계시민": {
+            "strategy": "V.글로벌허브",
+            "importance": 4.25,
+            "performance": 3.54,
+            "gap": 0.71
+          },
+          "V-4. 외국인 유치": {
+            "strategy": "V.글로벌허브",
+            "importance": 4.06,
+            "performance": 3.39,
+            "gap": 0.67
+          },
+          "V-5. 국제 공동연구": {
+            "strategy": "V.글로벌허브",
+            "importance": 4.05,
+            "performance": 3.3,
+            "gap": 0.75
+          }
+        },
+        "baselines": {
+          "importance": 4.17,
+          "performance": 3.4
+        },
+        "quadrants": {
+          "I. 집중개선": [
+            {
+              "task": "IV-1. 학생 역량 개발",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.42,
+              "performance": 3.39,
+              "gap": 1.03
+            },
+            {
+              "task": "IV-2. 학생 생활공간",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.39,
+              "performance": 3.13,
+              "gap": 1.26
+            },
+            {
+              "task": "IV-3. 학생 적응·활동",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.43,
+              "performance": 3.3,
+              "gap": 1.13
+            },
+            {
+              "task": "IV-4. 학생 만족도",
+              "strategy": "IV.학생역량·행복",
+              "importance": 4.4,
+              "performance": 3.1,
+              "gap": 1.29
+            },
+            {
+              "task": "V-2. 교육실습 체계",
+              "strategy": "V.글로벌허브",
+              "importance": 4.36,
+              "performance": 3.18,
+              "gap": 1.18
+            }
+          ],
+          "II. 유지강화": [
+            {
+              "task": "I-4. 에듀테크 활용",
+              "strategy": "I.AI·스마트",
+              "importance": 4.19,
+              "performance": 3.51,
+              "gap": 0.68
+            },
+            {
+              "task": "II-1. 초등교원 연구 강화",
+              "strategy": "II.교육연구",
+              "importance": 4.24,
+              "performance": 3.53,
+              "gap": 0.71
+            },
+            {
+              "task": "V-3. 다문화·세계시민",
+              "strategy": "V.글로벌허브",
+              "importance": 4.25,
+              "performance": 3.54,
+              "gap": 0.71
+            }
+          ],
+          "III. 저우선": [
+            {
+              "task": "I-2. 스마트 캠퍼스 구축",
+              "strategy": "I.AI·스마트",
+              "importance": 4.06,
+              "performance": 3.29,
+              "gap": 0.77
+            },
+            {
+              "task": "II-3. 지역 공동연구",
+              "strategy": "II.교육연구",
+              "importance": 3.95,
+              "performance": 3.39,
+              "gap": 0.56
+            },
+            {
+              "task": "III-3. 교육정책 싱크탱크",
+              "strategy": "III.포용성·공공성",
+              "importance": 4.03,
+              "performance": 3.38,
+              "gap": 0.64
+            },
+            {
+              "task": "III-4. ESG 교육 생태계",
+              "strategy": "III.포용성·공공성",
+              "importance": 4.11,
+              "performance": 3.38,
+              "gap": 0.74
+            },
+            {
+              "task": "V-4. 외국인 유치",
+              "strategy": "V.글로벌허브",
+              "importance": 4.06,
+              "performance": 3.39,
+              "gap": 0.67
+            },
+            {
+              "task": "V-5. 국제 공동연구",
+              "strategy": "V.글로벌허브",
+              "importance": 4.05,
+              "performance": 3.3,
+              "gap": 0.75
+            }
+          ],
+          "IV. 과잉투자": [
+            {
+              "task": "I-1. AI 기반 교육혁신",
+              "strategy": "I.AI·스마트",
+              "importance": 4.13,
+              "performance": 3.54,
+              "gap": 0.59
+            },
+            {
+              "task": "I-3. AI 교원 전문성",
+              "strategy": "I.AI·스마트",
+              "importance": 4.14,
+              "performance": 3.4,
+              "gap": 0.74
+            },
+            {
+              "task": "II-2. 대학원 연구 지원",
+              "strategy": "II.교육연구",
+              "importance": 4.01,
+              "performance": 3.44,
+              "gap": 0.57
+            },
+            {
+              "task": "II-4. 연구지원 체계",
+              "strategy": "II.교육연구",
+              "importance": 4.05,
+              "performance": 3.45,
+              "gap": 0.61
+            },
+            {
+              "task": "III-1. G-멘토링 플랫폼",
+              "strategy": "III.포용성·공공성",
+              "importance": 4.1,
+              "performance": 3.61,
+              "gap": 0.49
+            },
+            {
+              "task": "III-2. 미래형 시민교육",
+              "strategy": "III.포용성·공공성",
+              "importance": 4.06,
+              "performance": 3.49,
+              "gap": 0.56
+            },
+            {
+              "task": "V-1. 해외파견 다변화",
+              "strategy": "V.글로벌허브",
+              "importance": 4.13,
+              "performance": 3.6,
+              "gap": 0.53
+            }
+          ]
+        },
+        "gap_ranking": [
+          {
+            "task": "IV-4. 학생 만족도",
+            "gap": 1.29,
+            "importance": 4.4,
+            "performance": 3.1,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "IV-2. 학생 생활공간",
+            "gap": 1.26,
+            "importance": 4.39,
+            "performance": 3.13,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "V-2. 교육실습 체계",
+            "gap": 1.18,
+            "importance": 4.36,
+            "performance": 3.18,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "IV-3. 학생 적응·활동",
+            "gap": 1.13,
+            "importance": 4.43,
+            "performance": 3.3,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "IV-1. 학생 역량 개발",
+            "gap": 1.03,
+            "importance": 4.42,
+            "performance": 3.39,
+            "strategy": "IV.학생역량·행복"
+          },
+          {
+            "task": "I-2. 스마트 캠퍼스 구축",
+            "gap": 0.77,
+            "importance": 4.06,
+            "performance": 3.29,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "V-5. 국제 공동연구",
+            "gap": 0.75,
+            "importance": 4.05,
+            "performance": 3.3,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "I-3. AI 교원 전문성",
+            "gap": 0.74,
+            "importance": 4.14,
+            "performance": 3.4,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "III-4. ESG 교육 생태계",
+            "gap": 0.74,
+            "importance": 4.11,
+            "performance": 3.38,
+            "strategy": "III.포용성·공공성"
+          },
+          {
+            "task": "II-1. 초등교원 연구 강화",
+            "gap": 0.71,
+            "importance": 4.24,
+            "performance": 3.53,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "V-3. 다문화·세계시민",
+            "gap": 0.71,
+            "importance": 4.25,
+            "performance": 3.54,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "I-4. 에듀테크 활용",
+            "gap": 0.68,
+            "importance": 4.19,
+            "performance": 3.51,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "V-4. 외국인 유치",
+            "gap": 0.67,
+            "importance": 4.06,
+            "performance": 3.39,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "III-3. 교육정책 싱크탱크",
+            "gap": 0.64,
+            "importance": 4.03,
+            "performance": 3.38,
+            "strategy": "III.포용성·공공성"
+          },
+          {
+            "task": "II-4. 연구지원 체계",
+            "gap": 0.61,
+            "importance": 4.05,
+            "performance": 3.45,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "I-1. AI 기반 교육혁신",
+            "gap": 0.59,
+            "importance": 4.13,
+            "performance": 3.54,
+            "strategy": "I.AI·스마트"
+          },
+          {
+            "task": "II-2. 대학원 연구 지원",
+            "gap": 0.57,
+            "importance": 4.01,
+            "performance": 3.44,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "II-3. 지역 공동연구",
+            "gap": 0.56,
+            "importance": 3.95,
+            "performance": 3.39,
+            "strategy": "II.교육연구"
+          },
+          {
+            "task": "III-2. 미래형 시민교육",
+            "gap": 0.56,
+            "importance": 4.06,
+            "performance": 3.49,
+            "strategy": "III.포용성·공공성"
+          },
+          {
+            "task": "V-1. 해외파견 다변화",
+            "gap": 0.53,
+            "importance": 4.13,
+            "performance": 3.6,
+            "strategy": "V.글로벌허브"
+          },
+          {
+            "task": "III-1. G-멘토링 플랫폼",
+            "gap": 0.49,
+            "importance": 4.1,
+            "performance": 3.61,
+            "strategy": "III.포용성·공공성"
+          }
+        ]
+      }
+    }
+  },
+  "items": {
+    "혁신": {
+      "area": "핵심가치",
+      "importance": 4.19,
+      "performance": 3.12,
+      "gap": 1.07,
+      "imp_col": "ques_2(1)",
+      "perf_col": "ques_3(1)"
+    },
+    "창의": {
+      "area": "핵심가치",
+      "importance": 4.3,
+      "performance": 3.05,
+      "gap": 1.25,
+      "imp_col": "ques_2(2)",
+      "perf_col": "ques_3(2)"
+    },
+    "수월": {
+      "area": "핵심가치",
+      "importance": 4.14,
+      "performance": 3.32,
+      "gap": 0.82,
+      "imp_col": "ques_2(3)",
+      "perf_col": "ques_3(3)"
+    },
+    "배려": {
+      "area": "핵심가치",
+      "importance": 4.49,
+      "performance": 3.41,
+      "gap": 1.08,
+      "imp_col": "ques_2(4)",
+      "perf_col": "ques_3(4)"
+    },
+    "소통": {
+      "area": "핵심가치",
+      "importance": 4.64,
+      "performance": 3.3,
+      "gap": 1.34,
+      "imp_col": "ques_2(5)",
+      "perf_col": "ques_3(5)"
+    },
+    "시대적 변화 대응 역량 교원 확보 요구": {
+      "area": "위기요인",
+      "importance": 4.36,
+      "performance": 3.23,
+      "gap": 1.13,
+      "imp_col": "ques_5(1)",
+      "perf_col": "ques_6(1)"
+    },
+    "저출산 초등교원 수요 감소": {
+      "area": "위기요인",
+      "importance": 4.47,
+      "performance": 2.9,
+      "gap": 1.56,
+      "imp_col": "ques_5(2)",
+      "perf_col": "ques_6(2)"
+    },
+    "교육적 배려 학생 증가 양성과정 개편": {
+      "area": "위기요인",
+      "importance": 4.25,
+      "performance": 3.15,
+      "gap": 1.1,
+      "imp_col": "ques_5(3)",
+      "perf_col": "ques_6(3)"
+    },
+    "교육대학원 수요 감소": {
+      "area": "위기요인",
+      "importance": 3.92,
+      "performance": 3.14,
+      "gap": 0.78,
+      "imp_col": "ques_5(4)",
+      "perf_col": "ques_6(4)"
+    },
+    "교육청과의 협력 약화": {
+      "area": "위기요인",
+      "importance": 4.16,
+      "performance": 3.22,
+      "gap": 0.94,
+      "imp_col": "ques_5(5)",
+      "perf_col": "ques_6(5)"
+    },
+    "특수목적 실현 및 고유발전 모델": {
+      "area": "대응방향",
+      "importance": 4.08,
+      "performance": 3.44,
+      "gap": 0.64,
+      "imp_col": "ques_8(1)",
+      "perf_col": "ques_9(1)"
+    },
+    "교사교육기관 역할 강화": {
+      "area": "대응방향",
+      "importance": 4.32,
+      "performance": 3.59,
+      "gap": 0.73,
+      "imp_col": "ques_8(2)",
+      "perf_col": "ques_9(2)"
+    },
+    "시대적 변화 대응 역량 교원 양성": {
+      "area": "대응방향",
+      "importance": 4.39,
+      "performance": 3.45,
+      "gap": 0.94,
+      "imp_col": "ques_8(3)",
+      "perf_col": "ques_9(3)"
+    },
+    "교육 기회균등 및 공공성 제고": {
+      "area": "대응방향",
+      "importance": 4.08,
+      "performance": 3.51,
+      "gap": 0.56,
+      "imp_col": "ques_8(4)",
+      "perf_col": "ques_9(4)"
+    },
+    "지역사회 연계 및 공헌": {
+      "area": "대응방향",
+      "importance": 3.98,
+      "performance": 3.51,
+      "gap": 0.47,
+      "imp_col": "ques_8(5)",
+      "perf_col": "ques_9(5)"
+    },
+    "AI·스마트 캠퍼스 혁신": {
+      "area": "5대발전전략",
+      "importance": 4.03,
+      "performance": 3.45,
+      "gap": 0.58,
+      "imp_col": "ques_11(1)",
+      "perf_col": "ques_12(1)"
+    },
+    "교육연구 선도": {
+      "area": "5대발전전략",
+      "importance": 4.14,
+      "performance": 3.4,
+      "gap": 0.74,
+      "imp_col": "ques_11(2)",
+      "perf_col": "ques_12(2)"
+    },
+    "포용성·공공성 고도화": {
+      "area": "5대발전전략",
+      "importance": 4.13,
+      "performance": 3.36,
+      "gap": 0.77,
+      "imp_col": "ques_11(3)",
+      "perf_col": "ques_12(3)"
+    },
+    "학생 역량·행복 증진": {
+      "area": "5대발전전략",
+      "importance": 4.35,
+      "performance": 3.34,
+      "gap": 1.01,
+      "imp_col": "ques_11(4)",
+      "perf_col": "ques_12(4)"
+    },
+    "글로벌 허브": {
+      "area": "5대발전전략",
+      "importance": 4.0,
+      "performance": 3.34,
+      "gap": 0.66,
+      "imp_col": "ques_11(5)",
+      "perf_col": "ques_12(5)"
+    },
+    "AI 기반 교육혁신": {
+      "area": "I.AI·스마트",
+      "importance": 4.16,
+      "performance": 3.49,
+      "gap": 0.67,
+      "imp_col": "ques_14(1)",
+      "perf_col": "ques_15(1)"
+    },
+    "스마트 캠퍼스 구축": {
+      "area": "I.AI·스마트",
+      "importance": 4.11,
+      "performance": 3.28,
+      "gap": 0.83,
+      "imp_col": "ques_14(2)",
+      "perf_col": "ques_15(2)"
+    },
+    "AI 교원 전문성": {
+      "area": "I.AI·스마트",
+      "importance": 4.17,
+      "performance": 3.36,
+      "gap": 0.81,
+      "imp_col": "ques_14(3)",
+      "perf_col": "ques_15(3)"
+    },
+    "에듀테크 활용": {
+      "area": "I.AI·스마트",
+      "importance": 4.22,
+      "performance": 3.46,
+      "gap": 0.76,
+      "imp_col": "ques_14(4)",
+      "perf_col": "ques_15(4)"
+    },
+    "초등교원 연구 강화": {
+      "area": "II.교육연구",
+      "importance": 4.25,
+      "performance": 3.54,
+      "gap": 0.71,
+      "imp_col": "ques_16(1)",
+      "perf_col": "ques_17(1)"
+    },
+    "대학원 연구 지원": {
+      "area": "II.교육연구",
+      "importance": 4.1,
+      "performance": 3.44,
+      "gap": 0.66,
+      "imp_col": "ques_16(2)",
+      "perf_col": "ques_17(2)"
+    },
+    "지역 공동연구": {
+      "area": "II.교육연구",
+      "importance": 3.99,
+      "performance": 3.36,
+      "gap": 0.63,
+      "imp_col": "ques_16(3)",
+      "perf_col": "ques_17(3)"
+    },
+    "연구지원 체계": {
+      "area": "II.교육연구",
+      "importance": 4.11,
+      "performance": 3.41,
+      "gap": 0.7,
+      "imp_col": "ques_16(4)",
+      "perf_col": "ques_17(4)"
+    },
+    "G-멘토링 플랫폼": {
+      "area": "III.포용성·공공성",
+      "importance": 4.06,
+      "performance": 3.55,
+      "gap": 0.51,
+      "imp_col": "ques_18(1)",
+      "perf_col": "ques_19(1)"
+    },
+    "미래형 시민교육": {
+      "area": "III.포용성·공공성",
+      "importance": 4.04,
+      "performance": 3.47,
+      "gap": 0.57,
+      "imp_col": "ques_18(2)",
+      "perf_col": "ques_19(2)"
+    },
+    "교육정책 싱크탱크": {
+      "area": "III.포용성·공공성",
+      "importance": 4.01,
+      "performance": 3.33,
+      "gap": 0.67,
+      "imp_col": "ques_18(3)",
+      "perf_col": "ques_19(3)"
+    },
+    "ESG 교육 생태계": {
+      "area": "III.포용성·공공성",
+      "importance": 4.09,
+      "performance": 3.32,
+      "gap": 0.77,
+      "imp_col": "ques_18(4)",
+      "perf_col": "ques_19(4)"
+    },
+    "학생 역량 개발": {
+      "area": "IV.학생역량·행복",
+      "importance": 4.46,
+      "performance": 3.44,
+      "gap": 1.02,
+      "imp_col": "ques_20(1)",
+      "perf_col": "ques_21(1)"
+    },
+    "학생 생활공간": {
+      "area": "IV.학생역량·행복",
+      "importance": 4.36,
+      "performance": 3.21,
+      "gap": 1.15,
+      "imp_col": "ques_20(2)",
+      "perf_col": "ques_21(2)"
+    },
+    "학생 적응·활동": {
+      "area": "IV.학생역량·행복",
+      "importance": 4.4,
+      "performance": 3.36,
+      "gap": 1.04,
+      "imp_col": "ques_20(3)",
+      "perf_col": "ques_21(3)"
+    },
+    "학생 만족도": {
+      "area": "IV.학생역량·행복",
+      "importance": 4.36,
+      "performance": 3.2,
+      "gap": 1.17,
+      "imp_col": "ques_20(4)",
+      "perf_col": "ques_21(4)"
+    },
+    "해외파견 다변화": {
+      "area": "V.글로벌허브",
+      "importance": 4.12,
+      "performance": 3.56,
+      "gap": 0.56,
+      "imp_col": "ques_22(1)",
+      "perf_col": "ques_23(1)"
+    },
+    "교육실습 체계": {
+      "area": "V.글로벌허브",
+      "importance": 4.3,
+      "performance": 3.19,
+      "gap": 1.11,
+      "imp_col": "ques_22(2)",
+      "perf_col": "ques_23(2)"
+    },
+    "다문화·세계시민": {
+      "area": "V.글로벌허브",
+      "importance": 4.23,
+      "performance": 3.49,
+      "gap": 0.74,
+      "imp_col": "ques_22(3)",
+      "perf_col": "ques_23(3)"
+    },
+    "외국인 유치": {
+      "area": "V.글로벌허브",
+      "importance": 3.99,
+      "performance": 3.27,
+      "gap": 0.73,
+      "imp_col": "ques_22(4)",
+      "perf_col": "ques_23(4)"
+    },
+    "국제 공동연구": {
+      "area": "V.글로벌허브",
+      "importance": 4.06,
+      "performance": 3.24,
+      "gap": 0.82,
+      "imp_col": "ques_22(5)",
+      "perf_col": "ques_23(5)"
+    }
+  },
+  "quadrants": {
+    "I. 집중개선": [
+      {
+        "area": "핵심가치",
+        "importance": 4.35,
+        "performance": 3.24,
+        "gap": 1.11
+      },
+      {
+        "area": "위기요인",
+        "importance": 4.23,
+        "performance": 3.13,
+        "gap": 1.1
+      },
+      {
+        "area": "IV.학생역량·행복",
+        "importance": 4.4,
+        "performance": 3.3,
+        "gap": 1.09
+      }
+    ],
+    "II. 유지강화": [],
+    "III. 저우선": [
+      {
+        "area": "V.글로벌허브",
+        "importance": 4.14,
+        "performance": 3.35,
+        "gap": 0.79
+      }
+    ],
+    "IV. 과잉투자": [
+      {
+        "area": "대응방향",
+        "importance": 4.17,
+        "performance": 3.5,
+        "gap": 0.67
+      },
+      {
+        "area": "5대발전전략",
+        "importance": 4.13,
+        "performance": 3.38,
+        "gap": 0.75
+      },
+      {
+        "area": "I.AI·스마트",
+        "importance": 4.17,
+        "performance": 3.4,
+        "gap": 0.77
+      },
+      {
+        "area": "II.교육연구",
+        "importance": 4.11,
+        "performance": 3.44,
+        "gap": 0.67
+      },
+      {
+        "area": "III.포용성·공공성",
+        "importance": 4.05,
+        "performance": 3.42,
+        "gap": 0.63
+      }
+    ]
+  },
+  "detail_areas": {
+    "핵심가치": {
+      "items": {
+        "혁신": {
+          "importance": 4.19,
+          "performance": 3.12,
+          "gap": 1.07
+        },
+        "창의": {
+          "importance": 4.3,
+          "performance": 3.05,
+          "gap": 1.25
+        },
+        "수월": {
+          "importance": 4.14,
+          "performance": 3.32,
+          "gap": 0.82
+        },
+        "배려": {
+          "importance": 4.49,
+          "performance": 3.41,
+          "gap": 1.08
+        },
+        "소통": {
+          "importance": 4.64,
+          "performance": 3.3,
+          "gap": 1.34
+        }
+      },
+      "baselines": {
+        "importance": 4.35,
+        "performance": 3.24
+      },
+      "quadrants": {
+        "I. 집중개선": [],
+        "II. 유지강화": [
+          {
+            "item": "배려",
+            "importance": 4.49,
+            "performance": 3.41,
+            "gap": 1.08
+          },
+          {
+            "item": "소통",
+            "importance": 4.64,
+            "performance": 3.3,
+            "gap": 1.34
+          }
+        ],
+        "III. 저우선": [
+          {
+            "item": "혁신",
+            "importance": 4.19,
+            "performance": 3.12,
+            "gap": 1.07
+          },
+          {
+            "item": "창의",
+            "importance": 4.3,
+            "performance": 3.05,
+            "gap": 1.25
+          }
+        ],
+        "IV. 과잉투자": [
+          {
+            "item": "수월",
+            "importance": 4.14,
+            "performance": 3.32,
+            "gap": 0.82
+          }
+        ]
+      }
+    },
+    "위기요인": {
+      "items": {
+        "시대적 변화 대응 역량 교원 확보 요구": {
+          "importance": 4.36,
+          "performance": 3.23,
+          "gap": 1.13
+        },
+        "저출산 초등교원 수요 감소": {
+          "importance": 4.47,
+          "performance": 2.9,
+          "gap": 1.56
+        },
+        "교육적 배려 학생 증가 양성과정 개편": {
+          "importance": 4.25,
+          "performance": 3.15,
+          "gap": 1.1
+        },
+        "교육대학원 수요 감소": {
+          "importance": 3.92,
+          "performance": 3.14,
+          "gap": 0.78
+        },
+        "교육청과의 협력 약화": {
+          "importance": 4.16,
+          "performance": 3.22,
+          "gap": 0.94
+        }
+      },
+      "baselines": {
+        "importance": 4.23,
+        "performance": 3.13
+      },
+      "quadrants": {
+        "I. 집중개선": [
+          {
+            "item": "저출산 초등교원 수요 감소",
+            "importance": 4.47,
+            "performance": 2.9,
+            "gap": 1.56
+          }
+        ],
+        "II. 유지강화": [
+          {
+            "item": "시대적 변화 대응 역량 교원 확보 요구",
+            "importance": 4.36,
+            "performance": 3.23,
+            "gap": 1.13
+          },
+          {
+            "item": "교육적 배려 학생 증가 양성과정 개편",
+            "importance": 4.25,
+            "performance": 3.15,
+            "gap": 1.1
+          }
+        ],
+        "III. 저우선": [],
+        "IV. 과잉투자": [
+          {
+            "item": "교육대학원 수요 감소",
+            "importance": 3.92,
+            "performance": 3.14,
+            "gap": 0.78
+          },
+          {
+            "item": "교육청과의 협력 약화",
+            "importance": 4.16,
+            "performance": 3.22,
+            "gap": 0.94
+          }
+        ]
+      }
+    },
+    "대응방향": {
+      "items": {
+        "특수목적 실현 및 고유발전 모델": {
+          "importance": 4.08,
+          "performance": 3.44,
+          "gap": 0.64
+        },
+        "교사교육기관 역할 강화": {
+          "importance": 4.32,
+          "performance": 3.59,
+          "gap": 0.73
+        },
+        "시대적 변화 대응 역량 교원 양성": {
+          "importance": 4.39,
+          "performance": 3.45,
+          "gap": 0.94
+        },
+        "교육 기회균등 및 공공성 제고": {
+          "importance": 4.08,
+          "performance": 3.51,
+          "gap": 0.56
+        },
+        "지역사회 연계 및 공헌": {
+          "importance": 3.98,
+          "performance": 3.51,
+          "gap": 0.47
+        }
+      },
+      "baselines": {
+        "importance": 4.17,
+        "performance": 3.5
+      },
+      "quadrants": {
+        "I. 집중개선": [
+          {
+            "item": "시대적 변화 대응 역량 교원 양성",
+            "importance": 4.39,
+            "performance": 3.45,
+            "gap": 0.94
+          }
+        ],
+        "II. 유지강화": [
+          {
+            "item": "교사교육기관 역할 강화",
+            "importance": 4.32,
+            "performance": 3.59,
+            "gap": 0.73
+          }
+        ],
+        "III. 저우선": [
+          {
+            "item": "특수목적 실현 및 고유발전 모델",
+            "importance": 4.08,
+            "performance": 3.44,
+            "gap": 0.64
+          }
+        ],
+        "IV. 과잉투자": [
+          {
+            "item": "교육 기회균등 및 공공성 제고",
+            "importance": 4.08,
+            "performance": 3.51,
+            "gap": 0.56
+          },
+          {
+            "item": "지역사회 연계 및 공헌",
+            "importance": 3.98,
+            "performance": 3.51,
+            "gap": 0.47
+          }
+        ]
+      }
+    },
+    "5대발전전략": {
+      "items": {
+        "AI·스마트 캠퍼스 혁신": {
+          "importance": 4.03,
+          "performance": 3.45,
+          "gap": 0.58
+        },
+        "교육연구 선도": {
+          "importance": 4.14,
+          "performance": 3.4,
+          "gap": 0.74
+        },
+        "포용성·공공성 고도화": {
+          "importance": 4.13,
+          "performance": 3.36,
+          "gap": 0.77
+        },
+        "학생 역량·행복 증진": {
+          "importance": 4.35,
+          "performance": 3.34,
+          "gap": 1.01
+        },
+        "글로벌 허브": {
+          "importance": 4.0,
+          "performance": 3.34,
+          "gap": 0.66
+        }
+      },
+      "baselines": {
+        "importance": 4.13,
+        "performance": 3.38
+      },
+      "quadrants": {
+        "I. 집중개선": [
+          {
+            "item": "포용성·공공성 고도화",
+            "importance": 4.13,
+            "performance": 3.36,
+            "gap": 0.77
+          },
+          {
+            "item": "학생 역량·행복 증진",
+            "importance": 4.35,
+            "performance": 3.34,
+            "gap": 1.01
+          }
+        ],
+        "II. 유지강화": [
+          {
+            "item": "교육연구 선도",
+            "importance": 4.14,
+            "performance": 3.4,
+            "gap": 0.74
+          }
+        ],
+        "III. 저우선": [
+          {
+            "item": "글로벌 허브",
+            "importance": 4.0,
+            "performance": 3.34,
+            "gap": 0.66
+          }
+        ],
+        "IV. 과잉투자": [
+          {
+            "item": "AI·스마트 캠퍼스 혁신",
+            "importance": 4.03,
+            "performance": 3.45,
+            "gap": 0.58
+          }
+        ]
+      }
+    }
+  },
+  "strategies_5": {
+    "items": {
+      "I.AI·스마트": {
+        "importance": 4.17,
+        "performance": 3.4,
+        "gap": 0.77
+      },
+      "II.교육연구": {
+        "importance": 4.11,
+        "performance": 3.44,
+        "gap": 0.67
+      },
+      "III.포용성·공공성": {
+        "importance": 4.05,
+        "performance": 3.42,
+        "gap": 0.63
+      },
+      "IV.학생역량·행복": {
+        "importance": 4.4,
+        "performance": 3.3,
+        "gap": 1.09
+      },
+      "V.글로벌허브": {
+        "importance": 4.14,
+        "performance": 3.35,
+        "gap": 0.79
+      }
+    },
+    "baselines": {
+      "importance": 4.17,
+      "performance": 3.38
+    },
+    "quadrants": {
+      "I. 집중개선": [
+        {
+          "strategy": "IV.학생역량·행복",
+          "importance": 4.4,
+          "performance": 3.3,
+          "gap": 1.09
+        }
+      ],
+      "II. 유지강화": [],
+      "III. 저우선": [
+        {
+          "strategy": "V.글로벌허브",
+          "importance": 4.14,
+          "performance": 3.35,
+          "gap": 0.79
+        }
+      ],
+      "IV. 과잉투자": [
+        {
+          "strategy": "I.AI·스마트",
+          "importance": 4.17,
+          "performance": 3.4,
+          "gap": 0.77
+        },
+        {
+          "strategy": "II.교육연구",
+          "importance": 4.11,
+          "performance": 3.44,
+          "gap": 0.67
+        },
+        {
+          "strategy": "III.포용성·공공성",
+          "importance": 4.05,
+          "performance": 3.42,
+          "gap": 0.63
+        }
+      ]
+    }
+  },
+  "tasks_21": {
+    "items": {
+      "I-1. AI 기반 교육혁신": {
+        "strategy": "I.AI·스마트",
+        "importance": 4.16,
+        "performance": 3.49,
+        "gap": 0.67
+      },
+      "I-2. 스마트 캠퍼스 구축": {
+        "strategy": "I.AI·스마트",
+        "importance": 4.11,
+        "performance": 3.28,
+        "gap": 0.83
+      },
+      "I-3. AI 교원 전문성": {
+        "strategy": "I.AI·스마트",
+        "importance": 4.17,
+        "performance": 3.36,
+        "gap": 0.81
+      },
+      "I-4. 에듀테크 활용": {
+        "strategy": "I.AI·스마트",
+        "importance": 4.22,
+        "performance": 3.46,
+        "gap": 0.76
+      },
+      "II-1. 초등교원 연구 강화": {
+        "strategy": "II.교육연구",
+        "importance": 4.25,
+        "performance": 3.54,
+        "gap": 0.71
+      },
+      "II-2. 대학원 연구 지원": {
+        "strategy": "II.교육연구",
+        "importance": 4.1,
+        "performance": 3.44,
+        "gap": 0.66
+      },
+      "II-3. 지역 공동연구": {
+        "strategy": "II.교육연구",
+        "importance": 3.99,
+        "performance": 3.36,
+        "gap": 0.63
+      },
+      "II-4. 연구지원 체계": {
+        "strategy": "II.교육연구",
+        "importance": 4.11,
+        "performance": 3.41,
+        "gap": 0.7
+      },
+      "III-1. G-멘토링 플랫폼": {
+        "strategy": "III.포용성·공공성",
+        "importance": 4.06,
+        "performance": 3.55,
+        "gap": 0.51
+      },
+      "III-2. 미래형 시민교육": {
+        "strategy": "III.포용성·공공성",
+        "importance": 4.04,
+        "performance": 3.47,
+        "gap": 0.57
+      },
+      "III-3. 교육정책 싱크탱크": {
+        "strategy": "III.포용성·공공성",
+        "importance": 4.01,
+        "performance": 3.33,
+        "gap": 0.67
+      },
+      "III-4. ESG 교육 생태계": {
+        "strategy": "III.포용성·공공성",
+        "importance": 4.09,
+        "performance": 3.32,
+        "gap": 0.77
+      },
+      "IV-1. 학생 역량 개발": {
+        "strategy": "IV.학생역량·행복",
+        "importance": 4.46,
+        "performance": 3.44,
+        "gap": 1.02
+      },
+      "IV-2. 학생 생활공간": {
+        "strategy": "IV.학생역량·행복",
+        "importance": 4.36,
+        "performance": 3.21,
+        "gap": 1.15
+      },
+      "IV-3. 학생 적응·활동": {
+        "strategy": "IV.학생역량·행복",
+        "importance": 4.4,
+        "performance": 3.36,
+        "gap": 1.04
+      },
+      "IV-4. 학생 만족도": {
+        "strategy": "IV.학생역량·행복",
+        "importance": 4.36,
+        "performance": 3.2,
+        "gap": 1.17
+      },
+      "V-1. 해외파견 다변화": {
+        "strategy": "V.글로벌허브",
+        "importance": 4.12,
+        "performance": 3.56,
+        "gap": 0.56
+      },
+      "V-2. 교육실습 체계": {
+        "strategy": "V.글로벌허브",
+        "importance": 4.3,
+        "performance": 3.19,
+        "gap": 1.11
+      },
+      "V-3. 다문화·세계시민": {
+        "strategy": "V.글로벌허브",
+        "importance": 4.23,
+        "performance": 3.49,
+        "gap": 0.74
+      },
+      "V-4. 외국인 유치": {
+        "strategy": "V.글로벌허브",
+        "importance": 3.99,
+        "performance": 3.27,
+        "gap": 0.73
+      },
+      "V-5. 국제 공동연구": {
+        "strategy": "V.글로벌허브",
+        "importance": 4.06,
+        "performance": 3.24,
+        "gap": 0.82
+      }
+    },
+    "baselines": {
+      "importance": 4.17,
+      "performance": 3.38
+    },
+    "quadrants": {
+      "I. 집중개선": [
+        {
+          "task": "IV-2. 학생 생활공간",
+          "strategy": "IV.학생역량·행복",
+          "importance": 4.36,
+          "performance": 3.21,
+          "gap": 1.15
+        },
+        {
+          "task": "IV-3. 학생 적응·활동",
+          "strategy": "IV.학생역량·행복",
+          "importance": 4.4,
+          "performance": 3.36,
+          "gap": 1.04
+        },
+        {
+          "task": "IV-4. 학생 만족도",
+          "strategy": "IV.학생역량·행복",
+          "importance": 4.36,
+          "performance": 3.2,
+          "gap": 1.17
+        },
+        {
+          "task": "V-2. 교육실습 체계",
+          "strategy": "V.글로벌허브",
+          "importance": 4.3,
+          "performance": 3.19,
+          "gap": 1.11
+        }
+      ],
+      "II. 유지강화": [
+        {
+          "task": "I-4. 에듀테크 활용",
+          "strategy": "I.AI·스마트",
+          "importance": 4.22,
+          "performance": 3.46,
+          "gap": 0.76
+        },
+        {
+          "task": "II-1. 초등교원 연구 강화",
+          "strategy": "II.교육연구",
+          "importance": 4.25,
+          "performance": 3.54,
+          "gap": 0.71
+        },
+        {
+          "task": "IV-1. 학생 역량 개발",
+          "strategy": "IV.학생역량·행복",
+          "importance": 4.46,
+          "performance": 3.44,
+          "gap": 1.02
+        },
+        {
+          "task": "V-3. 다문화·세계시민",
+          "strategy": "V.글로벌허브",
+          "importance": 4.23,
+          "performance": 3.49,
+          "gap": 0.74
+        }
+      ],
+      "III. 저우선": [
+        {
+          "task": "I-2. 스마트 캠퍼스 구축",
+          "strategy": "I.AI·스마트",
+          "importance": 4.11,
+          "performance": 3.28,
+          "gap": 0.83
+        },
+        {
+          "task": "I-3. AI 교원 전문성",
+          "strategy": "I.AI·스마트",
+          "importance": 4.17,
+          "performance": 3.36,
+          "gap": 0.81
+        },
+        {
+          "task": "II-3. 지역 공동연구",
+          "strategy": "II.교육연구",
+          "importance": 3.99,
+          "performance": 3.36,
+          "gap": 0.63
+        },
+        {
+          "task": "III-3. 교육정책 싱크탱크",
+          "strategy": "III.포용성·공공성",
+          "importance": 4.01,
+          "performance": 3.33,
+          "gap": 0.67
+        },
+        {
+          "task": "III-4. ESG 교육 생태계",
+          "strategy": "III.포용성·공공성",
+          "importance": 4.09,
+          "performance": 3.32,
+          "gap": 0.77
+        },
+        {
+          "task": "V-4. 외국인 유치",
+          "strategy": "V.글로벌허브",
+          "importance": 3.99,
+          "performance": 3.27,
+          "gap": 0.73
+        },
+        {
+          "task": "V-5. 국제 공동연구",
+          "strategy": "V.글로벌허브",
+          "importance": 4.06,
+          "performance": 3.24,
+          "gap": 0.82
+        }
+      ],
+      "IV. 과잉투자": [
+        {
+          "task": "I-1. AI 기반 교육혁신",
+          "strategy": "I.AI·스마트",
+          "importance": 4.16,
+          "performance": 3.49,
+          "gap": 0.67
+        },
+        {
+          "task": "II-2. 대학원 연구 지원",
+          "strategy": "II.교육연구",
+          "importance": 4.1,
+          "performance": 3.44,
+          "gap": 0.66
+        },
+        {
+          "task": "II-4. 연구지원 체계",
+          "strategy": "II.교육연구",
+          "importance": 4.11,
+          "performance": 3.41,
+          "gap": 0.7
+        },
+        {
+          "task": "III-1. G-멘토링 플랫폼",
+          "strategy": "III.포용성·공공성",
+          "importance": 4.06,
+          "performance": 3.55,
+          "gap": 0.51
+        },
+        {
+          "task": "III-2. 미래형 시민교육",
+          "strategy": "III.포용성·공공성",
+          "importance": 4.04,
+          "performance": 3.47,
+          "gap": 0.57
+        },
+        {
+          "task": "V-1. 해외파견 다변화",
+          "strategy": "V.글로벌허브",
+          "importance": 4.12,
+          "performance": 3.56,
+          "gap": 0.56
+        }
+      ]
+    },
+    "gap_ranking": [
+      {
+        "task": "IV-4. 학생 만족도",
+        "gap": 1.17,
+        "importance": 4.36,
+        "performance": 3.2,
+        "strategy": "IV.학생역량·행복"
+      },
+      {
+        "task": "IV-2. 학생 생활공간",
+        "gap": 1.15,
+        "importance": 4.36,
+        "performance": 3.21,
+        "strategy": "IV.학생역량·행복"
+      },
+      {
+        "task": "V-2. 교육실습 체계",
+        "gap": 1.11,
+        "importance": 4.3,
+        "performance": 3.19,
+        "strategy": "V.글로벌허브"
+      },
+      {
+        "task": "IV-3. 학생 적응·활동",
+        "gap": 1.04,
+        "importance": 4.4,
+        "performance": 3.36,
+        "strategy": "IV.학생역량·행복"
+      },
+      {
+        "task": "IV-1. 학생 역량 개발",
+        "gap": 1.02,
+        "importance": 4.46,
+        "performance": 3.44,
+        "strategy": "IV.학생역량·행복"
+      },
+      {
+        "task": "I-2. 스마트 캠퍼스 구축",
+        "gap": 0.83,
+        "importance": 4.11,
+        "performance": 3.28,
+        "strategy": "I.AI·스마트"
+      },
+      {
+        "task": "V-5. 국제 공동연구",
+        "gap": 0.82,
+        "importance": 4.06,
+        "performance": 3.24,
+        "strategy": "V.글로벌허브"
+      },
+      {
+        "task": "I-3. AI 교원 전문성",
+        "gap": 0.81,
+        "importance": 4.17,
+        "performance": 3.36,
+        "strategy": "I.AI·스마트"
+      },
+      {
+        "task": "III-4. ESG 교육 생태계",
+        "gap": 0.77,
+        "importance": 4.09,
+        "performance": 3.32,
+        "strategy": "III.포용성·공공성"
+      },
+      {
+        "task": "I-4. 에듀테크 활용",
+        "gap": 0.76,
+        "importance": 4.22,
+        "performance": 3.46,
+        "strategy": "I.AI·스마트"
+      },
+      {
+        "task": "V-3. 다문화·세계시민",
+        "gap": 0.74,
+        "importance": 4.23,
+        "performance": 3.49,
+        "strategy": "V.글로벌허브"
+      },
+      {
+        "task": "V-4. 외국인 유치",
+        "gap": 0.73,
+        "importance": 3.99,
+        "performance": 3.27,
+        "strategy": "V.글로벌허브"
+      },
+      {
+        "task": "II-1. 초등교원 연구 강화",
+        "gap": 0.71,
+        "importance": 4.25,
+        "performance": 3.54,
+        "strategy": "II.교육연구"
+      },
+      {
+        "task": "II-4. 연구지원 체계",
+        "gap": 0.7,
+        "importance": 4.11,
+        "performance": 3.41,
+        "strategy": "II.교육연구"
+      },
+      {
+        "task": "I-1. AI 기반 교육혁신",
+        "gap": 0.67,
+        "importance": 4.16,
+        "performance": 3.49,
+        "strategy": "I.AI·스마트"
+      },
+      {
+        "task": "III-3. 교육정책 싱크탱크",
+        "gap": 0.67,
+        "importance": 4.01,
+        "performance": 3.33,
+        "strategy": "III.포용성·공공성"
+      },
+      {
+        "task": "II-2. 대학원 연구 지원",
+        "gap": 0.66,
+        "importance": 4.1,
+        "performance": 3.44,
+        "strategy": "II.교육연구"
+      },
+      {
+        "task": "II-3. 지역 공동연구",
+        "gap": 0.63,
+        "importance": 3.99,
+        "performance": 3.36,
+        "strategy": "II.교육연구"
+      },
+      {
+        "task": "III-2. 미래형 시민교육",
+        "gap": 0.57,
+        "importance": 4.04,
+        "performance": 3.47,
+        "strategy": "III.포용성·공공성"
+      },
+      {
+        "task": "V-1. 해외파견 다변화",
+        "gap": 0.56,
+        "importance": 4.12,
+        "performance": 3.56,
+        "strategy": "V.글로벌허브"
+      },
+      {
+        "task": "III-1. G-멘토링 플랫폼",
+        "gap": 0.51,
+        "importance": 4.06,
+        "performance": 3.55,
+        "strategy": "III.포용성·공공성"
+      }
+    ]
+  },
+  "baselines": {
+    "importance": 4.19,
+    "performance": 3.35
+  },
+  "gap_ranking": [
+    {
+      "area": "핵심가치",
+      "gap": 1.11,
+      "importance": 4.35,
+      "performance": 3.24
+    },
+    {
+      "area": "위기요인",
+      "gap": 1.1,
+      "importance": 4.23,
+      "performance": 3.13
+    },
+    {
+      "area": "IV.학생역량·행복",
+      "gap": 1.09,
+      "importance": 4.4,
+      "performance": 3.3
+    },
+    {
+      "area": "V.글로벌허브",
+      "gap": 0.79,
+      "importance": 4.14,
+      "performance": 3.35
+    },
+    {
+      "area": "I.AI·스마트",
+      "gap": 0.77,
+      "importance": 4.17,
+      "performance": 3.4
+    },
+    {
+      "area": "5대발전전략",
+      "gap": 0.75,
+      "importance": 4.13,
+      "performance": 3.38
+    },
+    {
+      "area": "대응방향",
+      "gap": 0.67,
+      "importance": 4.17,
+      "performance": 3.5
+    },
+    {
+      "area": "II.교육연구",
+      "gap": 0.67,
+      "importance": 4.11,
+      "performance": 3.44
+    },
+    {
+      "area": "III.포용성·공공성",
+      "gap": 0.63,
+      "importance": 4.05,
+      "performance": 3.42
+    }
+  ]
+}
