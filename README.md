@@ -43,6 +43,7 @@
 ├── ipa_dashboard.html      # 인터랙티브 대시보드 (HTML)
 ├── ipa_analyzer.py         # IPA 분석 스크립트 (Python)
 ├── ipa_analysis_results.json  # 분석 결과 데이터 (JSON)
+├── docs/연구계획서.md              # 연구계획서
 ├── docs/실행전략_연구보고서_초안.md  # 세부 실행전략 수립 연구 보고서(초안)
 └── README.md              # 프로젝트 설명
 ```
