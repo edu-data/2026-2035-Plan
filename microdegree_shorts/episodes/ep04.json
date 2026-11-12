@@ -1,0 +1,29 @@
+{
+  "episode": 4,
+  "lecture": "R 프로그래밍 1 (Posit Cloud를 활용한 데이터 분석 1)",
+  "badge": "데이터는 설레고, 너는 촉촉해 #4",
+  "duration": 30.0,
+  "scenes": [
+    {"scene": "nuna", "speaker": "누나",
+     "lines": ["쫑아… R 설치하다가 에러만 세 번째야.", "내 노트북으론 R 못 쓰는 거야?"]},
+    {"scene": "dog", "speaker": "뭉이", "pad_weight": 0.3,
+     "lines": ["(빨간 에러창 보며 갸우뚱)", "멍? 멍멍!"], "tts": "멍? 멍멍!"},
+    {"scene": "jong", "speaker": "쫑이",
+     "lines": ["누나, 설치 안 해도 돼요! Posit Cloud면", "브라우저에서 바로 R을 써요!"],
+     "tts": "누나, 설치 안 해도 돼요! 포짓 클라우드면 브라우저에서 바로 R을 써요!"},
+    {"scene": "info", "speaker": "쫑이", "pad_weight": 1.6, "voice": {"rate": "+18%"},
+     "lines": ["가입하고, 프로젝트 만들고, 데이터 올리면 끝!", "노트북 사양도 상관없어요."],
+     "info": {
+       "badge": "★ Posit Cloud로 R 시작하기 ★",
+       "title": "설치 없이 R을 쓴다고?",
+       "subtitle": "브라우저만 있으면 OK! 클라우드 R 3단계",
+       "cards": [
+         {"head": "posit.cloud 무료 가입", "body": "구글·GitHub 계정으로 1분이면 가입 끝!"},
+         {"head": "New Project → RStudio Project", "body": "설치 없이 브라우저 안에 RStudio가 쫙!"},
+         {"head": "데이터 업로드 & 코드 실행", "body": "Upload로 CSV 올리고 Ctrl+Enter 한 방!"}
+       ]}},
+    {"scene": "end", "speaker": "쫑이",
+     "lines": ["어때 누나! 촉촉해?", "Posit Cloud 실습은 저녁 4강 풀영상에서", "나랑 같이 해볼래?"],
+     "tts": "어때 누나! 촉촉해? 실습은 저녁 4강 풀영상에서 나랑 같이 해볼래?", "voice": {"rate": "+12%"}}
+  ]
+}
