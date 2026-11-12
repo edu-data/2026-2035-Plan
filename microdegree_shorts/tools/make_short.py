@@ -21,7 +21,7 @@ CARD = (27, 40, 57); DIV = (70, 83, 100); GREY = (150, 160, 178); MINT = (120, 2
 CARD_COLORS = [BLUE, PINK, YELLOW]
 SPK_COLOR = {"누나": PINK, "쫑이": BLUE, "뭉이": ORANGE}
 VOICE = {  # 화자별 기본 음성
-    "누나": dict(voice="ko-KR-SunHiNeural", rate="+8%", pitch="+0Hz"),
+    "누나": dict(voice="ko-KR-SunHiNeural", rate="+3%", pitch="+0Hz"),
     "뭉이": dict(voice="ko-KR-SunHiNeural", rate="+20%", pitch="+60Hz"),
     "쫑이": dict(voice="ko-KR-InJoonNeural", rate="+15%", pitch="+0Hz"),
 }
@@ -126,6 +126,11 @@ def tts(sc, out_wav, tmp):
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", mp3, "-af", trim.rstrip(","), "-ar", "44100", "-ac", "1", out_wav], check=True)
     return float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", out_wav],
                                 capture_output=True, text=True).stdout)
+
+def measure_lufs(wav):
+    """대사 파일의 통합 라우드니스(LUFS) 측정"""
+    r = subprocess.run(["ffmpeg", "-i", wav, "-af", "ebur128", "-f", "null", "-"], capture_output=True, text=True)
+    return float(re.findall(r"I:\s+(-?[0-9.]+) LUFS", r.stderr)[-1])
 
 def pauses(wav):
     """대사 속 쉼(쉼표) 끝 시점들 — 카드 등장 타이밍 자동 동기화용"""
@@ -249,13 +254,24 @@ def main(cfg_path, out_path=None):
     ins, fc, labels = ["-i", vid], [], []
     for k, sc in enumerate(scenes):
         ins += ["-i", sc["_wav"]]; ms = int(sc["_voice_at"] * 1000)
-        fc.append(f"[{k + 1}]adelay={ms}|{ms},loudnorm=I={-17 if sc['speaker'] == '뭉이' else -16}:TP=-1.5[v{k}]"); labels.append(f"[v{k}]")
+        # 고정 게인 정규화(대사 전체에 같은 배율) + 컴프레서로 약한 어미까지 또렷하게
+        target = {"누나": -14.5, "뭉이": -16.5}.get(sc["speaker"], -15.5)
+        gain = target - measure_lufs(sc["_wav"])
+        fc.append(f"[{k + 1}]acompressor=threshold=-26dB:ratio=3:attack=5:release=150:makeup=1,"
+                  f"volume={gain + 1.5:.2f}dB,adelay={ms}|{ms}[v{k}]"); labels.append(f"[v{k}]")
     nb = len(scenes) + 1; ins += ["-i", bg]
     fc.append("".join(labels) + f"amix=inputs={len(scenes)}:normalize=0:duration=longest,aresample=44100,apad=whole_dur={dur},asplit=2[vo][sc]")
-    fc.append(f"[{nb}]volume=0.32,aresample=44100[bg];[bg][sc]sidechaincompress=threshold=0.03:ratio=4:attack=30:release=400[bgd]")
+    fc.append(f"[{nb}]volume=0.24,aresample=44100[bg];[bg][sc]sidechaincompress=threshold=0.02:ratio=8:attack=15:release=500[bgd]")
     fc.append(f"[vo][bgd]amix=inputs=2:normalize=0:duration=longest,alimiter=limit=0.9,atrim=0:{dur},afade=t=out:st={dur - 0.5}:d=0.5[a]")
+    mix_path = os.path.join(tmp, "mix.mkv")
     subprocess.run(["ffmpeg", "-v", "error", "-y", *ins, "-filter_complex", ";".join(fc), "-map", "0:v", "-map", "[a]",
-                    "-c:v", "copy", "-c:a", "aac", "-b:a", "160k", "-ac", "2", "-t", str(dur), "-movflags", "+faststart", out_path], check=True)
+                    "-c:v", "copy", "-c:a", "pcm_s16le", "-ac", "2", "-t", str(dur), mix_path], check=True)
+    # 5) 마스터링: 전체 라우드니스를 쇼츠 표준(-15 LUFS)으로 맞추고 피크 제한
+    r = subprocess.run(["ffmpeg", "-i", mix_path, "-vn", "-af", "ebur128", "-f", "null", "-"], capture_output=True, text=True)
+    lufs = float(re.findall(r"I:\s+(-?[0-9.]+) LUFS", r.stderr)[-1])
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", mix_path, "-map", "0:v", "-map", "0:a", "-c:v", "copy",
+                    "-af", f"volume={-15 - lufs:.2f}dB,alimiter=limit=0.89:level=false", "-c:a", "aac", "-b:a", "192k",
+                    "-movflags", "+faststart", out_path], check=True)
     print("완성:", out_path)
 
 if __name__ == "__main__":
