@@ -3,6 +3,7 @@
 | 회차 | 강의 | 파일 |
 |---|---|---|
 | #4 | R 프로그래밍 1 (Posit Cloud를 활용한 데이터 분석 1) | `microdegree_ep04_shorts.mp4` |
+| 홍보편 | 마이크로디그리(데이터 과학) 데이터 분석 기초 46강 재생목록 홍보 | `microdegree_promo_shorts.mp4` |
 | #5 | 데이터 분석 기초(R 프로그래밍 1)_Posit Cloud를 활용한 데이터 분석 2 | `microdegree_ep05_shorts.mp4` |
 
 ## 새 회차 만들기
@@ -10,7 +11,7 @@
    - `lines`: 화면 자막(2~3줄) / `tts`: 음성용 문장(발음 보정, 예: Posit → 포짓)
    - 카드 제목에서 코드는 `` `백틱` ``으로 감싸면 코드 폰트로 표시됨
    - `pad_weight`: 남는 시간을 장면에 나눠 주는 비율(인포그래픽은 크게)
-2. 실행: `python3 microdegree_shorts/tools/make_short.py microdegree_shorts/episodes/epNN.json`
+2. 실행: `python3 microdegree_shorts/tools/make_short.py microdegree_shorts/episodes/epNN.json [출력.mp4]`
    - 미리보기 프레임만: `PREVIEW=2,20 python3 ...`
 3. 요구 사항: ffmpeg, Pillow, numpy, `pip install edge-tts`, `speech.platform.bing.com` 접속 허용
 
