@@ -17,6 +17,8 @@
 
 ## 구성
 - 장면: 누나(고민) → 뭉이(리액션) → 쫑이(해결) → 인포그래픽 3카드 → 3인 분할 엔딩, 총 30초
-- `assets/plates/`: 3강 영상에서 추출한 캐릭터 원본 이미지(누나·쫑이·뭉이·엔딩)
+- `assets/plates/`: 3강 영상에서 추출한 캐릭터 원본 이미지(누나·쫑이·뭉이), `ending_group.png`(엔딩 3인 단체 이미지)
+- `assets/cutouts/`: 캐릭터 배경 제거본 — `tools/cutout.mjs`(@imgly/background-removal-node)로 생성
+- 엔딩 이미지 재합성: `python3 microdegree_shorts/tools/make_group_ending.py` (배치·크기는 스크립트 안에서 조정)
 - `assets/fonts/`: Pretendard, D2Coding (SIL Open Font License)
 - 음성: Microsoft Edge TTS(누나·뭉이 SunHi, 쫑이 InJoon) / BGM: 스크립트가 직접 합성

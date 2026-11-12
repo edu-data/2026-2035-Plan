@@ -26,7 +26,7 @@ VOICE = {  # 화자별 기본 음성
     "쫑이": dict(voice="ko-KR-InJoonNeural", rate="+15%", pitch="+0Hz"),
 }
 # 장면 → 배경 이미지 (3강 영상에서 추출한 캐릭터 원본)
-PLATE = {"nuna": "nuna", "dog": "dog", "jong": "jong", "end": "ending"}
+PLATE = {"nuna": "nuna", "dog": "dog", "jong": "jong", "end": "ending_group"}
 XF = 0.4  # 장면 전환 크로스페이드(초)
 
 _fonts = {}
