@@ -44,13 +44,19 @@
 ├── ipa_analyzer.py         # IPA 분석 스크립트 (Python)
 ├── ipa_analysis_results.json  # 분석 결과 데이터 (JSON)
 ├── docs/
-│   └── TALIS2024_검토자료.md   # OECD TALIS 2024 한계·한국 결과·시사점 검토자료
+│   ├── TALIS2024_검토자료.md                    # OECD TALIS 2024 한계·한국 결과·시사점 검토자료
+│   └── TALIS2024_초등교원_분석틀_연구계획서.md     # 초등교원 정책 도출 분석틀 연구계획서(안)
+├── talis/
+│   ├── talis_ipa_analyzer.py  # TALIS-IPA 분석 코드 골격 (BRR·Wald F·지배분석)
+│   └── README.md              # 사용법·검증 결과
 └── README.md              # 프로젝트 설명
 ```
 
 ## 📚 참고자료
 
 - [OECD TALIS 2024 검토자료](docs/TALIS2024_검토자료.md): 연구의 한계와 문제점, 한국 중학교·초등교원 결과, 발전계획 시사점(검토안)
+- [TALIS 2024 초등교원 분석틀 연구계획서(안)](docs/TALIS2024_초등교원_분석틀_연구계획서.md): 4단계 분석틀(진단–이질성–기제–우선순위), TALIS-IPA 산식, 준인과 설계, BRR·Wald 지침
+- [TALIS-IPA 분석 코드](talis/README.md): `python talis/talis_ipa_analyzer.py --demo` (가상 자료 검증용)
 
 ## 🛠️ 로컬 실행
 
