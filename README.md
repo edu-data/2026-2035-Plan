@@ -43,8 +43,14 @@
 ├── ipa_dashboard.html      # 인터랙티브 대시보드 (HTML)
 ├── ipa_analyzer.py         # IPA 분석 스크립트 (Python)
 ├── ipa_analysis_results.json  # 분석 결과 데이터 (JSON)
+├── docs/
+│   └── TALIS2024_검토자료.md   # OECD TALIS 2024 한계·한국 결과·시사점 검토자료
 └── README.md              # 프로젝트 설명
 ```
+
+## 📚 참고자료
+
+- [OECD TALIS 2024 검토자료](docs/TALIS2024_검토자료.md): 연구의 한계와 문제점, 한국 중학교·초등교원 결과, 발전계획 시사점(검토안)
 
 ## 🛠️ 로컬 실행
 
